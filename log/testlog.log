@@ -1,0 +1,1354 @@
+2020-08-15 06:44:56,533 - INetBanking -INFO - URL is opened in Browser
+2020-08-15 06:45:01,815 - INetBanking -INFO - Skipped is clicked
+2020-08-15 06:45:06,992 - INetBanking -INFO - PLay button clicked
+2020-08-15 06:45:15,761 - INetBanking -INFO - Username is entered
+2020-08-15 06:45:15,937 - INetBanking -INFO - Password is entered
+2020-08-15 06:47:57,236 - INetBanking -INFO - URL is opened in Browser
+2020-08-15 06:48:02,672 - INetBanking -INFO - Tester clicked the skip button
+2020-08-15 06:48:07,813 - INetBanking -INFO - Play button clicked
+2020-08-15 06:48:16,144 - INetBanking -INFO - Username is entered
+2020-08-15 06:48:16,289 - INetBanking -INFO - Password is entered
+2020-08-15 06:48:16,581 - INetBanking -INFO - Tester is logged in to the Money control application
+2020-08-15 06:50:43,104 - INetBanking -INFO - URL is opened in Browser
+2020-08-15 06:50:48,992 - INetBanking -INFO - Tester clicked the skip button
+2020-08-15 06:50:54,247 - INetBanking -INFO - Play button clicked
+2020-08-15 06:51:04,349 - INetBanking -INFO - Username is entered
+2020-08-15 06:51:04,577 - INetBanking -INFO - Password is entered
+2020-08-15 06:51:04,991 - INetBanking -INFO - Tester is logged in to the Money control application
+2020-08-15 13:45:12,039 - INetBanking -INFO - URL is opened in Browser
+2020-08-15 13:45:17,254 - INetBanking -INFO - Tester clicked the skip button
+2020-08-15 13:45:22,332 - INetBanking -INFO - Play button clicked
+2020-08-15 13:45:32,938 - INetBanking -INFO - User name is entered
+2020-08-15 13:45:33,056 - INetBanking -INFO - Password is entered
+2020-08-15 13:45:33,322 - INetBanking -INFO - Tester is logged in to the Money control application
+2020-08-16 08:38:59,060 - INetBanking -INFO - URL is opened in Browser
+2020-08-16 08:39:04,276 - INetBanking -INFO - Tester clicked the skip button
+2020-08-16 08:39:09,374 - INetBanking -INFO - Play button clicked
+2020-08-16 08:39:17,708 - INetBanking -INFO - User name is entered
+2020-08-16 08:39:17,889 - INetBanking -INFO - Password is entered
+2020-08-16 08:39:18,202 - INetBanking -INFO - Tester is logged in to the Money control application
+2020-08-16 08:41:36,442 - INetBanking -INFO - URL is opened in Browser
+2020-08-16 08:41:41,762 - INetBanking -INFO - Tester clicked the skip button
+2020-08-16 08:41:46,856 - INetBanking -INFO - Play button clicked
+2020-08-16 08:41:55,085 - INetBanking -INFO - User name is entered
+2020-08-16 08:41:55,196 - INetBanking -INFO - Password is entered
+2020-08-16 08:41:55,399 - INetBanking -INFO - Tester is logged in to the Money control application
+2020-08-16 12:45:09,681 - InetBanking -INFO - URL is opened in Browser
+2020-08-16 12:45:15,144 - InetBanking -INFO - Tester clicked the skip button
+2020-08-16 12:45:20,248 - InetBanking -INFO - Play button clicked
+2020-08-16 12:45:28,501 - InetBanking -INFO - User name is entered
+2020-08-16 12:45:28,642 - InetBanking -INFO - Password is entered
+2020-08-16 12:45:28,850 - InetBanking -INFO - Tester is logged in to the Money control application
+2020-08-16 14:48:23,508 - InetBanking -INFO - URL is opened in Browser
+2020-08-16 14:48:29,055 - InetBanking -INFO - Tester clicked the skip button
+2020-08-16 14:48:34,185 - InetBanking -INFO - Play button clicked
+2020-08-16 14:48:47,138 - InetBanking -INFO - User name is entered
+2020-08-16 14:48:47,443 - InetBanking -INFO - Password is entered
+2020-08-16 14:48:47,929 - InetBanking -INFO - Tester is logged in to the Money control application
+2020-08-16 14:56:17,174 - InetBanking -INFO - URL is opened in Browser
+2020-08-16 14:56:25,538 - InetBanking -INFO - Tester clicked the skip button
+2020-08-16 14:56:30,804 - InetBanking -INFO - Play button clicked
+2020-08-16 14:56:39,230 - InetBanking -INFO - User name is entered
+2020-08-16 14:56:39,426 - InetBanking -INFO - Password is entered
+2020-08-16 14:56:39,777 - InetBanking -INFO - Tester is logged in to the Money control application
+2020-08-16 14:58:18,116 - InetBanking -INFO - URL is opened in Browser
+2020-08-16 14:58:29,297 - InetBanking -INFO - Tester clicked the skip button
+2020-08-16 14:58:35,088 - InetBanking -INFO - Play button clicked
+2020-08-16 14:58:45,168 - InetBanking -INFO - User name is entered
+2020-08-16 14:58:45,680 - InetBanking -INFO - Password is entered
+2020-08-16 14:58:46,107 - InetBanking -INFO - Tester is logged in to the Money control application
+2020-08-16 15:00:43,980 - InetBanking -INFO - URL is opened in Browser
+2020-08-16 15:00:50,097 - InetBanking -INFO - Tester clicked the skip button
+2020-08-16 15:00:55,419 - InetBanking -INFO - Play button clicked
+2020-08-16 15:01:04,156 - InetBanking -INFO - User name is entered
+2020-08-16 15:01:04,286 - InetBanking -INFO - Password is entered
+2020-08-16 15:01:04,501 - InetBanking -INFO - Tester is logged in to the Money control application
+2020-08-18 06:46:14,058 - InetBanking -INFO - URL is opened in Browser
+2020-08-18 06:46:20,307 - InetBanking -INFO - Tester clicked the skip button
+2020-08-18 06:46:25,524 - InetBanking -INFO - Play button clicked
+2020-08-18 06:46:34,324 - InetBanking -INFO - User name is entered
+2020-08-18 06:46:37,566 - InetBanking -INFO - Password is entered
+2020-08-18 06:46:38,124 - InetBanking -INFO - Tester is logged in to the Money control application
+2020-08-18 06:53:00,687 - InetBanking -INFO - URL is opened in Browser
+2020-08-18 06:53:06,797 - InetBanking -INFO - Tester clicked the skip button
+2020-08-18 06:53:12,137 - InetBanking -INFO - Play button clicked
+2020-08-18 06:53:21,290 - InetBanking -INFO - User name is entered
+2020-08-18 06:53:24,616 - InetBanking -INFO - Password is entered
+2020-08-18 06:53:25,225 - InetBanking -INFO - Tester is logged in to the Money control application
+2020-08-18 06:56:16,479 - InetBanking -INFO - URL is opened in Browser
+2020-08-18 06:56:22,267 - InetBanking -INFO - Tester clicked the skip button
+2020-08-18 06:56:27,544 - InetBanking -INFO - Play button clicked
+2020-08-18 06:56:36,473 - InetBanking -INFO - User name is entered
+2020-08-18 06:56:39,813 - InetBanking -INFO - Password is entered
+2020-08-18 06:56:40,380 - InetBanking -INFO - Tester is logged in to the Money control application
+2020-08-18 06:56:53,544 - InetBanking -INFO - Title is correct
+2020-08-18 12:11:28,994 - InetBanking -INFO - URL is opened in Browser
+2020-08-18 12:11:37,846 - InetBanking -INFO - Tester clicked the skip button
+2020-08-18 12:11:45,735 - InetBanking -INFO - Play button clicked
+2020-08-18 12:11:58,511 - InetBanking -INFO - User name is entered
+2020-08-18 12:12:02,081 - InetBanking -INFO - Password is entered
+2020-08-18 14:34:17,642 - InetBanking -INFO - URL is opened in Browser
+2020-08-18 14:34:23,900 - InetBanking -INFO - Tester clicked the skip button
+2020-08-18 14:34:29,052 - InetBanking -INFO - Play button clicked
+2020-08-18 14:34:47,506 - InetBanking -INFO - User name is entered
+2020-08-18 14:34:50,681 - InetBanking -INFO - Password is entered
+2020-08-18 14:34:51,088 - InetBanking -INFO - Tester is logged in to the Money control application
+2020-08-18 14:34:58,022 - InetBanking -INFO - Title is correct
+2020-08-18 14:35:04,462 - InetBanking -INFO - Tester is logged out from the Money control application
+2020-08-18 14:52:30,196 - InetBanking -INFO - URL is opened in Browser
+2020-08-18 15:02:08,463 - InetBanking -INFO - Tester clicked the skip button
+2020-08-18 15:02:08,704 - InetBanking -INFO - Play button clicked
+2020-08-18 15:02:30,447 - InetBanking -INFO - user name provided
+2020-08-18 15:02:30,597 - InetBanking -INFO - password provided
+2020-08-18 18:33:50,524 - InetBanking -INFO - Tester clicked the skip button
+2020-08-18 18:33:50,660 - InetBanking -INFO - Play button clicked
+2020-08-18 18:33:56,568 - InetBanking -INFO - user name provided
+2020-08-18 18:33:56,713 - InetBanking -INFO - password provided
+2020-08-18 18:40:25,366 - InetBanking -INFO - Tester clicked the skip button
+2020-08-18 18:40:25,503 - InetBanking -INFO - Play button clicked
+2020-08-18 18:40:32,451 - InetBanking -INFO - user name provided
+2020-08-18 18:40:32,705 - InetBanking -INFO - password provided
+2020-08-18 18:42:05,583 - InetBanking -INFO - Tester clicked the skip button
+2020-08-18 18:42:05,733 - InetBanking -INFO - Play button clicked
+2020-08-18 18:42:09,960 - InetBanking -INFO - user name provided
+2020-08-18 18:42:10,322 - InetBanking -INFO - password provided
+2020-08-18 18:43:37,244 - InetBanking -INFO - Tester clicked the skip button
+2020-08-18 18:43:39,104 - InetBanking -INFO - Play button clicked
+2020-08-18 18:43:42,739 - InetBanking -INFO - user name provided
+2020-08-18 18:43:42,939 - InetBanking -INFO - password provided
+2020-08-18 18:45:28,664 - InetBanking -INFO - Tester clicked the skip button
+2020-08-18 18:45:29,094 - InetBanking -INFO - Play button clicked
+2020-08-18 18:45:34,677 - InetBanking -INFO - user name provided
+2020-08-18 18:45:35,010 - InetBanking -INFO - password provided
+2020-08-18 18:46:31,219 - InetBanking -INFO - Tester clicked the skip button
+2020-08-18 18:46:31,872 - InetBanking -INFO - Play button clicked
+2020-08-18 18:46:37,289 - InetBanking -INFO - user name provided
+2020-08-18 18:46:37,464 - InetBanking -INFO - password provided
+2020-08-18 18:55:27,349 - InetBanking -INFO - Tester clicked the skip button
+2020-08-18 18:55:39,252 - InetBanking -INFO - Play button clicked
+2020-08-18 18:55:49,070 - InetBanking -INFO - user name provided
+2020-08-18 18:55:49,558 - InetBanking -INFO - password provided
+2020-08-19 06:26:28,821 - InetBanking -INFO - Tester clicked the skip button
+2020-08-19 06:26:29,271 - InetBanking -INFO - Play button clicked
+2020-08-19 06:26:35,443 - InetBanking -INFO - user name provided
+2020-08-19 06:26:35,628 - InetBanking -INFO - password provided
+2020-08-19 06:46:35,764 - InetBanking -INFO - Tester clicked the skip button
+2020-08-19 06:46:36,094 - InetBanking -INFO - Play button clicked
+2020-08-19 06:46:40,180 - InetBanking -INFO - user name provided
+2020-08-19 06:46:40,400 - InetBanking -INFO - password provided
+2020-08-19 07:01:18,736 - InetBanking -INFO - Tester clicked the skip button
+2020-08-19 07:01:19,071 - InetBanking -INFO - Play button clicked
+2020-08-20 07:37:43,675 - InetBanking -INFO - Tester clicked the skip button
+2020-08-20 07:37:45,808 - InetBanking -INFO - Play button clicked
+2020-08-20 07:37:50,403 - InetBanking -INFO - user name provided
+2020-08-20 07:37:51,647 - InetBanking -INFO - password provided
+2020-08-20 07:39:46,153 - InetBanking -INFO - Tester clicked the skip button
+2020-08-20 07:39:46,725 - InetBanking -INFO - Play button clicked
+2020-08-20 07:39:52,939 - InetBanking -INFO - user name provided
+2020-08-20 07:39:53,169 - InetBanking -INFO - password provided
+2020-08-20 07:43:28,712 - InetBanking -INFO - Tester clicked the skip button
+2020-08-20 07:43:29,332 - InetBanking -INFO - Play button clicked
+2020-08-20 07:43:34,056 - InetBanking -INFO - user name provided
+2020-08-20 07:43:34,329 - InetBanking -INFO - password provided
+2020-08-20 07:43:35,443 - InetBanking -INFO - Invalid username and password
+2020-08-20 07:57:32,539 - InetBanking -INFO - Tester clicked the skip button
+2020-08-20 07:57:32,703 - InetBanking -INFO - Play button clicked
+2020-08-20 07:57:40,672 - InetBanking -INFO - user name provided
+2020-08-20 07:57:40,853 - InetBanking -INFO - password provided
+2020-08-20 07:59:16,980 - InetBanking -INFO - Tester clicked the skip button
+2020-08-20 07:59:17,358 - InetBanking -INFO - Play button clicked
+2020-08-20 07:59:21,227 - InetBanking -INFO - user name provided
+2020-08-20 07:59:22,438 - InetBanking -INFO - password provided
+2020-08-20 08:03:04,725 - InetBanking -INFO - Tester clicked the skip button
+2020-08-20 08:03:05,040 - InetBanking -INFO - Play button clicked
+2020-08-20 08:03:09,594 - InetBanking -INFO - user name provided
+2020-08-20 08:03:09,811 - InetBanking -INFO - password provided
+2020-08-20 08:04:04,889 - InetBanking -INFO - Tester clicked the skip button
+2020-08-20 08:04:05,121 - InetBanking -INFO - Play button clicked
+2020-08-20 08:04:13,895 - InetBanking -INFO - user name provided
+2020-08-20 08:04:14,337 - InetBanking -INFO - password provided
+2020-08-20 08:07:02,868 - InetBanking -INFO - Tester clicked the skip button
+2020-08-20 08:07:03,638 - InetBanking -INFO - Play button clicked
+2020-08-20 08:07:07,645 - InetBanking -INFO - user name provided
+2020-08-20 08:07:08,007 - InetBanking -INFO - password provided
+2020-08-20 08:07:09,014 - InetBanking -INFO - Invalid username and password
+2020-08-20 08:11:17,988 - InetBanking -INFO - Tester clicked the skip button
+2020-08-20 08:11:20,905 - InetBanking -INFO - Play button clicked
+2020-08-20 08:11:26,929 - InetBanking -INFO - user name provided
+2020-08-20 08:11:27,286 - InetBanking -INFO - password provided
+2020-08-20 08:17:25,011 - InetBanking -INFO - Tester clicked the skip button
+2020-08-20 08:17:27,470 - InetBanking -INFO - Play button clicked
+2020-08-20 08:17:32,867 - InetBanking -INFO - user name provided
+2020-08-20 08:17:33,249 - InetBanking -INFO - password provided
+2020-08-20 08:21:45,138 - InetBanking -INFO - Tester clicked the skip button
+2020-08-20 08:21:45,507 - InetBanking -INFO - Play button clicked
+2020-08-20 08:21:50,718 - InetBanking -INFO - user name provided
+2020-08-20 08:21:51,041 - InetBanking -INFO - password provided
+2020-08-20 08:24:48,612 - InetBanking -INFO - Tester clicked the skip button
+2020-08-20 08:24:48,835 - InetBanking -INFO - Play button clicked
+2020-08-20 08:24:53,080 - InetBanking -INFO - user name provided
+2020-08-20 08:24:53,431 - InetBanking -INFO - password provided
+2020-08-20 08:25:35,701 - InetBanking -INFO - Login pass
+2020-08-20 08:29:49,220 - InetBanking -INFO - Tester clicked the skip button
+2020-08-20 08:29:49,607 - InetBanking -INFO - Play button clicked
+2020-08-20 08:29:58,014 - InetBanking -INFO - user name provided
+2020-08-20 08:29:58,727 - InetBanking -INFO - password provided
+2020-08-20 08:32:42,895 - InetBanking -INFO - Tester clicked the skip button
+2020-08-20 08:32:43,158 - InetBanking -INFO - Play button clicked
+2020-08-20 08:33:02,749 - InetBanking -INFO - user name provided
+2020-08-20 08:33:03,087 - InetBanking -INFO - password provided
+2020-08-20 08:33:19,522 - InetBanking -INFO - Login pass
+2020-08-20 08:53:16,528 - InetBanking -INFO - URL is opened in Browser
+2020-08-20 08:53:21,944 - InetBanking -INFO - Tester clicked the skip button
+2020-08-20 08:53:27,063 - InetBanking -INFO - Play button clicked
+2020-08-20 08:53:38,395 - InetBanking -INFO - User name is entered
+2020-08-20 08:53:41,543 - InetBanking -INFO - Password is entered
+2020-08-20 08:53:41,824 - InetBanking -INFO - Tester is logged in to the Money control application
+2020-08-20 08:53:47,833 - InetBanking -INFO - Title is correct
+2020-08-20 08:57:34,719 - InetBanking -INFO - URL is opened in Browser
+2020-08-20 08:57:40,081 - InetBanking -INFO - Tester clicked the skip button
+2020-08-20 08:57:45,262 - InetBanking -INFO - Play button clicked
+2020-08-20 08:58:01,625 - InetBanking -INFO - User name is entered
+2020-08-20 08:58:04,772 - InetBanking -INFO - Password is entered
+2020-08-20 08:58:05,046 - InetBanking -INFO - Tester is logged in to the Money control application
+2020-08-20 08:58:11,057 - InetBanking -INFO - Title is correct
+2020-08-20 18:28:00,410 - InetBanking -INFO - URL is opened in Browser
+2020-08-20 18:28:08,039 - InetBanking -INFO - Tester clicked the skip button
+2020-08-20 18:28:13,132 - InetBanking -INFO - Play button clicked
+2020-08-20 18:28:29,443 - InetBanking -INFO - User name is entered
+2020-08-20 18:28:32,579 - InetBanking -INFO - Password is entered
+2020-08-20 18:28:32,849 - InetBanking -INFO - Tester is logged in to the Money control application
+2020-08-20 18:28:38,861 - InetBanking -INFO - Title is correct
+2020-08-20 18:28:41,685 - InetBanking -INFO - Tester is logged out from the Money control application
+2020-08-25 22:35:49,556 - InetBanking -INFO - URL is opened in Browser
+2020-08-25 22:35:55,497 - InetBanking -INFO - Tester clicked the skip button
+2020-08-25 22:36:00,591 - InetBanking -INFO - Play button clicked
+2020-08-25 22:36:29,366 - InetBanking -INFO - User name is entered
+2020-08-25 22:36:32,504 - InetBanking -INFO - Password is entered
+2020-08-25 22:36:32,735 - InetBanking -INFO - Tester is logged in to the Money control application
+2020-08-25 22:36:39,667 - InetBanking -INFO - Title is correct
+2020-08-25 22:36:53,081 - InetBanking -INFO - Tester is logged out from the Money control application
+2020-08-28 15:08:13,806 - InetBanking -INFO - Tester clicked the skip button
+2020-08-28 15:08:13,940 - InetBanking -INFO - Play button clicked
+2020-08-28 15:08:24,114 - InetBanking -INFO - user name provided
+2020-08-28 15:08:24,311 - InetBanking -INFO - password provided
+2020-08-28 15:08:24,743 - InetBanking -INFO - Submit button clicked
+2020-08-28 15:08:27,827 - InetBanking -INFO - Invalid username and password
+2020-08-28 15:12:57,499 - InetBanking -INFO - Tester clicked the skip button
+2020-08-28 15:12:57,622 - InetBanking -INFO - Play button clicked
+2020-08-28 15:13:23,088 - InetBanking -INFO - user name provided
+2020-08-28 15:13:23,272 - InetBanking -INFO - password provided
+2020-08-28 15:13:23,629 - InetBanking -INFO - Submit button clicked
+2020-08-28 15:13:44,857 - InetBanking -INFO - Invalid username and password
+2020-08-28 15:18:00,386 - InetBanking -INFO - Tester clicked the skip button
+2020-08-28 15:18:00,552 - InetBanking -INFO - Play button clicked
+2020-08-28 15:18:40,240 - InetBanking -INFO - user name provided
+2020-08-28 15:18:40,388 - InetBanking -INFO - password provided
+2020-08-28 15:18:40,679 - InetBanking -INFO - Submit button clicked
+2020-08-30 20:07:07,893 - InetBanking -INFO - user name entered
+2020-08-30 20:07:08,001 - InetBanking -INFO - password entered
+2020-08-30 20:07:09,271 - InetBanking -INFO - Submit button clicked
+2020-08-30 20:07:12,351 - InetBanking -INFO - user name entered
+2020-08-30 20:07:12,424 - InetBanking -INFO - password entered
+2020-08-30 20:07:13,284 - InetBanking -INFO - Submit button clicked
+2020-08-30 20:07:16,390 - InetBanking -INFO - user name entered
+2020-08-30 20:07:16,464 - InetBanking -INFO - password entered
+2020-08-30 20:07:17,381 - InetBanking -INFO - Submit button clicked
+2020-08-30 20:07:20,457 - InetBanking -INFO - user name entered
+2020-08-30 20:07:20,528 - InetBanking -INFO - password entered
+2020-08-30 20:07:21,421 - InetBanking -INFO - Submit button clicked
+2020-08-30 20:07:24,488 - InetBanking -INFO - user name entered
+2020-08-30 20:07:24,573 - InetBanking -INFO - password entered
+2020-08-30 20:07:25,430 - InetBanking -INFO - Submit button clicked
+2020-08-30 20:10:20,617 - InetBanking -INFO - user name entered
+2020-08-30 20:10:20,735 - InetBanking -INFO - password entered
+2020-08-30 20:10:21,945 - InetBanking -INFO - Submit button clicked
+2020-08-30 20:10:25,070 - InetBanking -INFO - user name entered
+2020-08-30 20:10:25,151 - InetBanking -INFO - password entered
+2020-08-30 20:10:26,043 - InetBanking -INFO - Submit button clicked
+2020-08-30 20:10:29,147 - InetBanking -INFO - user name entered
+2020-08-30 20:10:29,261 - InetBanking -INFO - password entered
+2020-08-30 20:10:30,138 - InetBanking -INFO - Submit button clicked
+2020-08-30 20:10:33,233 - InetBanking -INFO - user name entered
+2020-08-30 20:10:33,324 - InetBanking -INFO - password entered
+2020-08-30 20:10:34,201 - InetBanking -INFO - Submit button clicked
+2020-08-30 20:10:37,268 - InetBanking -INFO - user name entered
+2020-08-30 20:10:37,333 - InetBanking -INFO - password entered
+2020-08-30 20:10:38,161 - InetBanking -INFO - Submit button clicked
+2020-08-30 20:10:41,291 - InetBanking -INFO - user name entered
+2020-08-30 20:10:41,361 - InetBanking -INFO - password entered
+2020-08-30 20:10:42,243 - InetBanking -INFO - Submit button clicked
+2020-08-30 20:10:45,332 - InetBanking -INFO - user name entered
+2020-08-30 20:10:45,401 - InetBanking -INFO - password entered
+2020-08-30 20:10:46,283 - InetBanking -INFO - Submit button clicked
+2020-08-30 20:10:49,361 - InetBanking -INFO - user name entered
+2020-08-30 20:10:49,422 - InetBanking -INFO - password entered
+2020-08-30 20:10:50,301 - InetBanking -INFO - Submit button clicked
+2020-08-30 20:11:56,478 - InetBanking -INFO - user name entered
+2020-08-30 20:11:56,610 - InetBanking -INFO - password entered
+2020-08-30 20:12:03,892 - InetBanking -INFO - Submit button clicked
+2020-08-30 20:14:14,900 - InetBanking -INFO - user name entered
+2020-08-30 20:14:14,999 - InetBanking -INFO - password entered
+2020-08-30 20:14:21,481 - InetBanking -INFO - Submit button clicked
+2020-08-30 20:17:52,299 - InetBanking -INFO - user name entered
+2020-08-30 20:17:52,390 - InetBanking -INFO - password entered
+2020-08-30 20:17:59,872 - InetBanking -INFO - Submit button clicked
+2020-08-30 20:30:57,045 - InetBanking -INFO - user name entered
+2020-08-30 20:30:57,145 - InetBanking -INFO - password entered
+2020-08-30 20:31:03,776 - InetBanking -INFO - Submit button clicked
+2020-08-30 20:34:29,432 - InetBanking -INFO - user name entered
+2020-08-30 20:34:29,518 - InetBanking -INFO - password entered
+2020-08-31 13:56:32,456 - InetBanking -INFO - URL is opened in Browser
+2020-08-31 13:57:30,305 - InetBanking -INFO - URL is opened in Browser
+2020-08-31 13:57:35,673 - InetBanking -INFO - user name entered
+2020-08-31 13:57:35,895 - InetBanking -INFO - password entered
+2020-08-31 13:57:37,251 - InetBanking -INFO - Submit button clicked
+2020-09-01 18:33:06,741 - InetBanking -INFO - user name entered
+2020-09-01 18:33:06,830 - InetBanking -INFO - password entered
+2020-09-01 18:33:15,021 - InetBanking -INFO - Submit button clicked
+2020-09-01 18:35:11,654 - InetBanking -INFO - user name entered
+2020-09-01 18:35:11,763 - InetBanking -INFO - password entered
+2020-09-01 18:35:19,281 - InetBanking -INFO - Submit button clicked
+2020-09-01 18:56:28,496 - InetBanking -INFO - user name entered
+2020-09-01 18:56:28,617 - InetBanking -INFO - password entered
+2020-09-01 18:56:47,777 - InetBanking -INFO - Submit button clicked
+2020-09-01 18:58:00,231 - InetBanking -INFO - user name entered
+2020-09-01 18:58:00,358 - InetBanking -INFO - password entered
+2020-09-01 18:58:08,185 - InetBanking -INFO - Submit button clicked
+2020-09-01 18:58:41,817 - InetBanking -INFO - user name entered
+2020-09-01 18:58:41,912 - InetBanking -INFO - password entered
+2020-09-01 18:58:49,560 - InetBanking -INFO - Submit button clicked
+2020-09-01 19:00:52,218 - InetBanking -INFO - user name entered
+2020-09-01 19:00:52,410 - InetBanking -INFO - password entered
+2020-09-01 19:01:01,132 - InetBanking -INFO - Submit button clicked
+2020-09-01 19:23:55,395 - InetBanking -INFO - user name entered
+2020-09-01 19:23:55,521 - InetBanking -INFO - password entered
+2020-09-01 19:25:08,289 - InetBanking -INFO - user name entered
+2020-09-01 19:25:08,413 - InetBanking -INFO - password entered
+2020-09-01 19:26:00,910 - InetBanking -INFO - user name entered
+2020-09-01 19:26:01,142 - InetBanking -INFO - password entered
+2020-09-01 19:26:44,889 - InetBanking -INFO - user name entered
+2020-09-01 19:26:47,582 - InetBanking -INFO - password entered
+2020-09-02 18:02:25,796 - InetBanking -INFO - user name entered
+2020-09-02 18:02:26,024 - InetBanking -INFO - password entered
+2020-09-02 18:02:26,195 - InetBanking -INFO - user name entered
+2020-09-02 18:02:26,364 - InetBanking -INFO - password entered
+2020-09-02 18:02:26,523 - InetBanking -INFO - user name entered
+2020-09-02 18:02:26,745 - InetBanking -INFO - password entered
+2020-09-02 18:02:26,858 - InetBanking -INFO - user name entered
+2020-09-02 18:02:26,985 - InetBanking -INFO - password entered
+2020-09-02 18:02:27,085 - InetBanking -INFO - user name entered
+2020-09-02 18:02:27,197 - InetBanking -INFO - password entered
+2020-09-02 18:02:27,330 - InetBanking -INFO - user name entered
+2020-09-02 18:02:27,465 - InetBanking -INFO - password entered
+2020-09-02 18:02:27,577 - InetBanking -INFO - user name entered
+2020-09-02 18:02:27,691 - InetBanking -INFO - password entered
+2020-09-02 18:02:27,827 - InetBanking -INFO - user name entered
+2020-09-02 18:02:27,943 - InetBanking -INFO - password entered
+2020-09-02 18:02:28,138 - InetBanking -INFO - user name entered
+2020-09-02 18:02:28,245 - InetBanking -INFO - password entered
+2020-09-02 18:02:28,384 - InetBanking -INFO - user name entered
+2020-09-02 18:02:28,527 - InetBanking -INFO - password entered
+2020-09-02 18:02:28,631 - InetBanking -INFO - user name entered
+2020-09-02 18:02:28,774 - InetBanking -INFO - password entered
+2020-09-02 18:02:28,927 - InetBanking -INFO - user name entered
+2020-09-02 18:02:29,031 - InetBanking -INFO - password entered
+2020-09-02 18:02:29,153 - InetBanking -INFO - user name entered
+2020-09-02 18:02:29,293 - InetBanking -INFO - password entered
+2020-09-02 18:05:27,199 - InetBanking -INFO - user name entered
+2020-09-02 18:05:27,646 - InetBanking -INFO - password entered
+2020-09-02 18:05:30,143 - InetBanking -INFO - Submit button clicked
+2020-09-02 18:05:38,546 - InetBanking -INFO - user name entered
+2020-09-02 18:05:38,776 - InetBanking -INFO - password entered
+2020-09-02 18:05:39,954 - InetBanking -INFO - Submit button clicked
+2020-09-02 18:05:48,272 - InetBanking -INFO - user name entered
+2020-09-02 18:05:48,445 - InetBanking -INFO - password entered
+2020-09-02 18:05:56,167 - InetBanking -INFO - Submit button clicked
+2020-09-02 18:06:04,423 - InetBanking -INFO - user name entered
+2020-09-02 18:06:04,637 - InetBanking -INFO - password entered
+2020-09-02 18:06:04,857 - InetBanking -INFO - Submit button clicked
+2020-09-02 18:06:12,998 - InetBanking -INFO - user name entered
+2020-09-02 18:06:13,130 - InetBanking -INFO - password entered
+2020-09-02 18:06:13,347 - InetBanking -INFO - Submit button clicked
+2020-09-02 18:06:21,494 - InetBanking -INFO - user name entered
+2020-09-02 18:06:21,583 - InetBanking -INFO - password entered
+2020-09-02 18:06:21,674 - InetBanking -INFO - Submit button clicked
+2020-09-02 18:06:29,782 - InetBanking -INFO - user name entered
+2020-09-02 18:06:29,894 - InetBanking -INFO - password entered
+2020-09-02 18:06:31,741 - InetBanking -INFO - Submit button clicked
+2020-09-02 18:06:39,981 - InetBanking -INFO - user name entered
+2020-09-02 18:06:40,151 - InetBanking -INFO - password entered
+2020-09-02 18:06:41,535 - InetBanking -INFO - Submit button clicked
+2020-09-02 18:06:49,750 - InetBanking -INFO - user name entered
+2020-09-02 18:06:49,899 - InetBanking -INFO - password entered
+2020-09-02 18:06:51,264 - InetBanking -INFO - Submit button clicked
+2020-09-02 18:06:59,463 - InetBanking -INFO - user name entered
+2020-09-02 18:06:59,652 - InetBanking -INFO - password entered
+2020-09-02 18:07:01,669 - InetBanking -INFO - Submit button clicked
+2020-09-02 18:08:02,433 - InetBanking -INFO - user name entered
+2020-09-02 18:08:02,715 - InetBanking -INFO - password entered
+2020-09-02 18:08:04,777 - InetBanking -INFO - Submit button clicked
+2020-09-02 18:19:23,939 - InetBanking -INFO - user name entered
+2020-09-02 18:19:24,403 - InetBanking -INFO - password entered
+2020-09-02 18:19:27,370 - InetBanking -INFO - Submit button clicked
+2020-09-02 18:19:35,803 - InetBanking -INFO - user name entered
+2020-09-02 18:19:36,049 - InetBanking -INFO - password entered
+2020-09-02 18:19:37,402 - InetBanking -INFO - Submit button clicked
+2020-09-02 18:31:40,213 - InetBanking -INFO - user name entered
+2020-09-02 18:31:40,506 - InetBanking -INFO - password entered
+2020-09-02 18:31:49,077 - InetBanking -INFO - Submit button clicked
+2020-09-02 18:35:06,308 - InetBanking -INFO - user name entered
+2020-09-02 18:35:06,492 - InetBanking -INFO - password entered
+2020-09-02 18:35:14,225 - InetBanking -INFO - Submit button clicked
+2020-09-02 18:40:30,978 - InetBanking -INFO - user name entered
+2020-09-02 18:40:31,215 - InetBanking -INFO - password entered
+2020-09-02 18:40:38,622 - InetBanking -INFO - Submit button clicked
+2020-09-02 18:41:45,810 - InetBanking -INFO - user name entered
+2020-09-02 18:41:46,104 - InetBanking -INFO - password entered
+2020-09-02 18:41:55,666 - InetBanking -INFO - Submit button clicked
+2020-09-02 18:43:31,859 - InetBanking -INFO - user name entered
+2020-09-02 18:43:32,247 - InetBanking -INFO - password entered
+2020-09-02 18:43:39,433 - InetBanking -INFO - Submit button clicked
+2020-09-02 18:44:48,431 - InetBanking -INFO - user name entered
+2020-09-02 18:44:48,732 - InetBanking -INFO - password entered
+2020-09-02 18:44:56,173 - InetBanking -INFO - Submit button clicked
+2020-09-02 18:48:43,834 - InetBanking -INFO - user name entered
+2020-09-02 18:48:44,162 - InetBanking -INFO - password entered
+2020-09-02 18:48:52,100 - InetBanking -INFO - Submit button clicked
+2020-09-02 18:50:02,328 - InetBanking -INFO - user name entered
+2020-09-02 18:50:02,644 - InetBanking -INFO - password entered
+2020-09-02 18:50:10,294 - InetBanking -INFO - Submit button clicked
+2020-09-02 18:52:54,728 - InetBanking -INFO - user name entered
+2020-09-02 18:52:54,985 - InetBanking -INFO - password entered
+2020-09-02 18:52:56,942 - InetBanking -INFO - Submit button clicked
+2020-09-02 18:58:14,852 - InetBanking -INFO - user name entered
+2020-09-02 18:58:15,154 - InetBanking -INFO - password entered
+2020-09-02 18:58:17,139 - InetBanking -INFO - Submit button clicked
+2020-09-03 07:30:10,787 - InetBanking -INFO - user name entered
+2020-09-03 07:30:10,877 - InetBanking -INFO - password entered
+2020-09-03 07:30:12,689 - InetBanking -INFO - Submit button clicked
+2020-09-03 07:30:15,911 - InetBanking -INFO - user name entered
+2020-09-03 07:30:16,038 - InetBanking -INFO - password entered
+2020-09-03 07:30:23,546 - InetBanking -INFO - Submit button clicked
+2020-09-03 07:33:44,558 - InetBanking -INFO - user name entered
+2020-09-03 07:33:44,746 - InetBanking -INFO - password entered
+2020-09-03 07:33:46,381 - InetBanking -INFO - Submit button clicked
+2020-09-03 07:33:49,601 - InetBanking -INFO - user name entered
+2020-09-03 07:33:49,714 - InetBanking -INFO - password entered
+2020-09-03 07:33:55,879 - InetBanking -INFO - Submit button clicked
+2020-09-04 08:50:54,897 - InetBanking -INFO - URL is opened in Browser
+2020-09-04 08:51:00,106 - InetBanking -INFO - user name entered
+2020-09-04 08:51:00,214 - InetBanking -INFO - password entered
+2020-09-04 08:51:01,846 - InetBanking -INFO - Submit button clicked
+2020-09-04 08:53:08,230 - InetBanking -INFO - URL is opened in Browser
+2020-09-04 08:53:13,377 - InetBanking -INFO - user name entered
+2020-09-04 08:53:13,444 - InetBanking -INFO - password entered
+2020-09-04 08:53:15,364 - InetBanking -INFO - Submit button clicked
+2020-09-04 08:53:59,836 - InetBanking -INFO - URL is opened in Browser
+2020-09-04 08:54:04,967 - InetBanking -INFO - user name entered
+2020-09-04 08:54:05,047 - InetBanking -INFO - password entered
+2020-09-04 08:54:15,148 - InetBanking -INFO - Submit button clicked
+2020-09-04 08:57:30,049 - InetBanking -INFO - URL is opened in Browser
+2020-09-04 08:57:51,511 - InetBanking -INFO - user name entered
+2020-09-04 08:57:51,593 - InetBanking -INFO - password entered
+2020-09-04 08:58:06,189 - InetBanking -INFO - Submit button clicked
+2020-09-14 06:45:33,537 - InetBanking -INFO - user name entered
+2020-09-14 06:45:33,636 - InetBanking -INFO - password entered
+2020-09-14 06:45:35,549 - InetBanking -INFO - Submit button clicked
+2020-09-14 06:45:38,730 - InetBanking -INFO - user name entered
+2020-09-14 06:45:38,812 - InetBanking -INFO - password entered
+2020-09-14 06:45:48,503 - InetBanking -INFO - Submit button clicked
+2020-09-14 07:40:11,475 - InetBanking -INFO - user name entered
+2020-09-14 07:40:11,561 - InetBanking -INFO - password entered
+2020-09-14 07:40:13,421 - InetBanking -INFO - Submit button clicked
+2020-09-14 07:40:16,609 - InetBanking -INFO - user name entered
+2020-09-14 07:40:16,700 - InetBanking -INFO - password entered
+2020-09-14 07:40:24,197 - InetBanking -INFO - Submit button clicked
+2020-09-14 07:43:19,938 - InetBanking -INFO - user name entered
+2020-09-14 07:43:20,050 - InetBanking -INFO - password entered
+2020-09-14 07:43:23,902 - InetBanking -INFO - Submit button clicked
+2020-09-14 07:45:41,372 - InetBanking -INFO - user name entered
+2020-09-14 07:45:41,466 - InetBanking -INFO - password entered
+2020-09-14 07:45:43,017 - InetBanking -INFO - Submit button clicked
+2020-09-14 07:45:46,199 - InetBanking -INFO - user name entered
+2020-09-14 07:45:46,289 - InetBanking -INFO - password entered
+2020-09-14 07:45:55,908 - InetBanking -INFO - Submit button clicked
+2020-09-14 07:48:31,601 - InetBanking -INFO - user name entered
+2020-09-14 07:48:31,700 - InetBanking -INFO - password entered
+2020-09-14 07:48:39,286 - InetBanking -INFO - Submit button clicked
+2020-09-14 07:50:05,882 - InetBanking -INFO - user name entered
+2020-09-14 07:50:05,970 - InetBanking -INFO - password entered
+2020-09-14 07:50:14,895 - InetBanking -INFO - Submit button clicked
+2020-09-14 07:52:59,999 - InetBanking -INFO - user name entered
+2020-09-14 07:53:00,181 - InetBanking -INFO - password entered
+2020-09-14 07:53:10,757 - InetBanking -INFO - Submit button clicked
+2020-09-14 07:57:19,575 - InetBanking -INFO - user name entered
+2020-09-14 07:57:19,654 - InetBanking -INFO - password entered
+2020-09-14 07:57:27,345 - InetBanking -INFO - Submit button clicked
+2020-09-14 07:58:09,293 - InetBanking -INFO - user name entered
+2020-09-14 07:58:09,417 - InetBanking -INFO - password entered
+2020-09-14 07:58:16,933 - InetBanking -INFO - Submit button clicked
+2020-09-14 07:59:48,876 - InetBanking -INFO - user name entered
+2020-09-14 07:59:48,991 - InetBanking -INFO - password entered
+2020-09-14 07:59:56,431 - InetBanking -INFO - Submit button clicked
+2020-09-14 08:02:09,811 - InetBanking -INFO - user name entered
+2020-09-14 08:02:09,962 - InetBanking -INFO - password entered
+2020-09-14 08:02:17,577 - InetBanking -INFO - Submit button clicked
+2020-09-14 08:02:30,561 - InetBanking -INFO - user name entered
+2020-09-14 08:02:30,649 - InetBanking -INFO - password entered
+2020-09-14 08:02:32,148 - InetBanking -INFO - Submit button clicked
+2020-09-14 08:02:35,295 - InetBanking -INFO - user name entered
+2020-09-14 08:02:35,362 - InetBanking -INFO - password entered
+2020-09-14 08:02:36,549 - InetBanking -INFO - Submit button clicked
+2020-09-14 08:06:10,302 - InetBanking -INFO - user name entered
+2020-09-14 08:06:10,381 - InetBanking -INFO - password entered
+2020-09-14 08:06:20,008 - InetBanking -INFO - Submit button clicked
+2020-09-14 08:06:28,077 - InetBanking -INFO - User is successfully logged in and looking into title.
+2020-09-14 08:06:32,641 - InetBanking -INFO - user name entered
+2020-09-14 08:06:32,727 - InetBanking -INFO - password entered
+2020-09-14 08:06:33,942 - InetBanking -INFO - Submit button clicked
+2020-09-14 08:06:37,107 - InetBanking -INFO - user name entered
+2020-09-14 08:06:37,199 - InetBanking -INFO - password entered
+2020-09-14 08:06:38,373 - InetBanking -INFO - Submit button clicked
+2020-09-14 08:11:52,510 - InetBanking -INFO - user name entered
+2020-09-14 08:11:52,627 - InetBanking -INFO - password entered
+2020-09-14 08:12:01,155 - InetBanking -INFO - Submit button clicked
+2020-09-14 08:12:09,239 - InetBanking -INFO - User is successfully logged in and looking into title.
+2020-09-14 08:12:14,071 - InetBanking -INFO - user name entered
+2020-09-14 08:12:14,149 - InetBanking -INFO - password entered
+2020-09-14 08:12:15,640 - InetBanking -INFO - Submit button clicked
+2020-09-14 08:12:18,784 - InetBanking -INFO - user name entered
+2020-09-14 08:12:18,854 - InetBanking -INFO - password entered
+2020-09-14 08:12:19,680 - InetBanking -INFO - Submit button clicked
+2020-09-14 15:02:02,888 - InetBanking -INFO - user name entered
+2020-09-14 15:02:03,127 - InetBanking -INFO - password entered
+2020-09-14 15:02:10,113 - InetBanking -INFO - Submit button clicked
+2020-09-14 15:02:18,204 - InetBanking -INFO - User is successfully logged in and looking into title.
+2020-09-14 15:02:23,066 - InetBanking -INFO - user name entered
+2020-09-14 15:02:23,202 - InetBanking -INFO - password entered
+2020-09-14 15:02:24,550 - InetBanking -INFO - Submit button clicked
+2020-09-14 15:02:27,808 - InetBanking -INFO - user name entered
+2020-09-14 15:02:27,915 - InetBanking -INFO - password entered
+2020-09-14 15:02:28,897 - InetBanking -INFO - Submit button clicked
+2020-09-15 07:18:36,762 - InetBanking -INFO - URL is opened in Browser
+2020-09-15 07:18:41,899 - InetBanking -INFO - user name entered
+2020-09-15 07:18:41,966 - InetBanking -INFO - password entered
+2020-09-15 07:18:48,473 - InetBanking -INFO - Submit button clicked
+2020-09-15 07:19:06,392 - InetBanking -INFO - user name entered
+2020-09-15 07:19:06,459 - InetBanking -INFO - password entered
+2020-09-15 07:19:13,460 - InetBanking -INFO - Submit button clicked
+2020-09-15 07:19:21,506 - InetBanking -INFO - User is successfully logged in and looking into title.
+2020-09-15 07:41:58,774 - InetBanking -INFO - user name entered
+2020-09-15 07:41:58,883 - InetBanking -INFO - password entered
+2020-09-15 07:42:04,292 - InetBanking -INFO - Submit button clicked
+2020-09-15 07:42:12,353 - InetBanking -INFO - User is successfully logged in and looking into title.
+2020-09-15 07:42:17,248 - InetBanking -INFO - user name entered
+2020-09-15 07:42:17,324 - InetBanking -INFO - password entered
+2020-09-15 07:42:18,609 - InetBanking -INFO - Submit button clicked
+2020-09-15 07:42:21,876 - InetBanking -INFO - user name entered
+2020-09-15 07:42:22,009 - InetBanking -INFO - password entered
+2020-09-15 07:42:22,909 - InetBanking -INFO - Submit button clicked
+2020-09-15 07:42:26,057 - InetBanking -INFO - user name entered
+2020-09-15 07:42:26,125 - InetBanking -INFO - password entered
+2020-09-15 07:42:27,177 - InetBanking -INFO - Submit button clicked
+2020-09-15 07:42:30,315 - InetBanking -INFO - user name entered
+2020-09-15 07:42:30,384 - InetBanking -INFO - password entered
+2020-09-15 07:42:31,264 - InetBanking -INFO - Submit button clicked
+2020-09-15 07:42:34,478 - InetBanking -INFO - user name entered
+2020-09-15 07:42:34,716 - InetBanking -INFO - password entered
+2020-09-15 07:42:35,596 - InetBanking -INFO - Submit button clicked
+2020-09-15 07:42:38,766 - InetBanking -INFO - user name entered
+2020-09-15 07:42:38,844 - InetBanking -INFO - password entered
+2020-09-15 07:42:39,784 - InetBanking -INFO - Submit button clicked
+2020-09-15 07:50:14,582 - InetBanking -INFO - URL is opened in Browser
+2020-09-15 07:50:19,800 - InetBanking -INFO - user name entered
+2020-09-15 07:50:19,917 - InetBanking -INFO - password entered
+2020-09-15 07:50:27,247 - InetBanking -INFO - Submit button clicked
+2020-09-15 07:50:30,259 - InetBanking -INFO - Title is correct
+2020-09-15 07:50:34,759 - InetBanking -INFO - Tester is logged out from the application
+2020-09-15 07:50:48,132 - InetBanking -INFO - user name entered
+2020-09-15 07:50:48,235 - InetBanking -INFO - password entered
+2020-09-15 07:50:56,097 - InetBanking -INFO - Submit button clicked
+2020-09-15 07:51:04,173 - InetBanking -INFO - User is successfully logged in and looking into title.
+2020-09-15 07:51:08,820 - InetBanking -INFO - user name entered
+2020-09-15 07:51:08,904 - InetBanking -INFO - password entered
+2020-09-15 07:51:10,120 - InetBanking -INFO - Submit button clicked
+2020-09-15 07:51:13,276 - InetBanking -INFO - user name entered
+2020-09-15 07:51:13,356 - InetBanking -INFO - password entered
+2020-09-15 07:51:14,263 - InetBanking -INFO - Submit button clicked
+2020-09-15 08:44:07,030 - InetBanking -INFO - user name entered
+2020-09-15 08:44:07,107 - InetBanking -INFO - password entered
+2020-09-15 08:44:14,735 - InetBanking -INFO - Submit button clicked
+2020-09-15 08:44:16,817 - InetBanking -INFO - Tester is on Admin page
+2020-09-15 08:44:17,890 - InetBanking -INFO - Adding a new user
+2020-09-15 08:44:18,078 - InetBanking -INFO - Employee name provided
+2020-09-15 08:44:18,184 - InetBanking -INFO - User Name name provided
+2020-09-15 08:44:18,291 - InetBanking -INFO - Password name provided
+2020-09-15 08:44:18,397 - InetBanking -INFO - Confrim password name provided
+2020-09-15 08:44:18,499 - InetBanking -INFO - A new user is addedd
+2020-09-15 08:44:20,516 - InetBanking -INFO - Tester is logged out from the application
+2020-09-15 08:45:02,829 - InetBanking -INFO - URL is opened in Browser
+2020-09-15 08:45:07,972 - InetBanking -INFO - user name entered
+2020-09-15 08:45:08,047 - InetBanking -INFO - password entered
+2020-09-15 08:45:18,297 - InetBanking -INFO - Submit button clicked
+2020-09-15 08:45:21,305 - InetBanking -INFO - Title is correct
+2020-09-15 08:45:25,825 - InetBanking -INFO - Tester is logged out from the application
+2020-09-15 08:47:48,671 - InetBanking -INFO - user name entered
+2020-09-15 08:47:48,733 - InetBanking -INFO - password entered
+2020-09-15 08:48:15,613 - InetBanking -INFO - Submit button clicked
+2020-09-15 08:48:36,072 - InetBanking -INFO - user name entered
+2020-09-15 08:48:36,312 - InetBanking -INFO - password entered
+2020-09-15 08:48:43,350 - InetBanking -INFO - Submit button clicked
+2020-09-15 08:48:51,408 - InetBanking -INFO - User is successfully logged in and looking into title.
+2020-09-15 08:48:56,004 - InetBanking -INFO - user name entered
+2020-09-15 08:48:56,097 - InetBanking -INFO - password entered
+2020-09-15 08:48:57,383 - InetBanking -INFO - Submit button clicked
+2020-09-15 08:49:00,571 - InetBanking -INFO - user name entered
+2020-09-15 08:49:00,680 - InetBanking -INFO - password entered
+2020-09-15 08:49:01,590 - InetBanking -INFO - Submit button clicked
+2020-09-15 16:07:12,329 - InetBanking -INFO - URL is opened in Browser
+2020-09-15 16:07:17,508 - InetBanking -INFO - user name entered
+2020-09-15 16:07:17,612 - InetBanking -INFO - password entered
+2020-09-15 16:07:23,705 - InetBanking -INFO - Submit button clicked
+2020-09-15 16:07:26,712 - InetBanking -INFO - Title is correct
+2020-09-15 16:07:31,030 - InetBanking -INFO - Tester is logged out from the application
+2020-09-15 16:07:42,124 - InetBanking -INFO - user name entered
+2020-09-15 16:07:42,212 - InetBanking -INFO - password entered
+2020-09-15 16:07:48,042 - InetBanking -INFO - Submit button clicked
+2020-09-15 16:07:53,728 - InetBanking -INFO - Tester is on Admin page
+2020-09-15 16:07:58,643 - InetBanking -INFO - Adding a new user
+2020-09-15 16:08:02,770 - InetBanking -INFO - Employee name provided
+2020-09-15 16:08:06,852 - InetBanking -INFO - User Name name provided
+2020-09-15 16:08:06,958 - InetBanking -INFO - Password name provided
+2020-09-15 16:08:07,064 - InetBanking -INFO - Confrim password name provided
+2020-09-15 16:08:12,634 - InetBanking -INFO - A new user is addedd
+2020-09-15 16:08:18,137 - InetBanking -INFO - Tester is logged out from the application
+2020-09-15 16:08:30,303 - InetBanking -INFO - user name entered
+2020-09-15 16:08:30,447 - InetBanking -INFO - password entered
+2020-09-15 16:08:36,309 - InetBanking -INFO - Submit button clicked
+2020-09-15 16:08:44,350 - InetBanking -INFO - User is successfully logged in and looking into title.
+2020-09-15 16:08:49,362 - InetBanking -INFO - user name entered
+2020-09-15 16:08:49,442 - InetBanking -INFO - password entered
+2020-09-15 16:08:50,635 - InetBanking -INFO - Submit button clicked
+2020-09-15 16:08:53,778 - InetBanking -INFO - user name entered
+2020-09-15 16:08:53,839 - InetBanking -INFO - password entered
+2020-09-15 16:08:54,766 - InetBanking -INFO - Submit button clicked
+2020-09-15 17:04:41,163 - InetBanking -INFO - URL is opened in Browser
+2020-09-15 17:04:46,308 - InetBanking -INFO - user name entered
+2020-09-15 17:04:46,430 - InetBanking -INFO - password entered
+2020-09-15 17:04:52,603 - InetBanking -INFO - Submit button clicked
+2020-09-15 17:04:55,611 - InetBanking -INFO - Title is correct
+2020-09-15 17:04:59,872 - InetBanking -INFO - Tester is logged out from the application
+2020-09-15 17:05:10,762 - InetBanking -INFO - user name entered
+2020-09-15 17:05:10,843 - InetBanking -INFO - password entered
+2020-09-15 17:05:17,059 - InetBanking -INFO - Submit button clicked
+2020-09-15 17:05:22,693 - InetBanking -INFO - Tester is on Admin page
+2020-09-15 17:05:27,640 - InetBanking -INFO - Adding a new user
+2020-09-15 17:05:31,759 - InetBanking -INFO - Employee name provided
+2020-09-15 17:05:35,837 - InetBanking -INFO - User Name name provided
+2020-09-15 17:05:35,945 - InetBanking -INFO - Password name provided
+2020-09-15 17:05:36,033 - InetBanking -INFO - Confrim password name provided
+2020-09-15 17:05:41,539 - InetBanking -INFO - A new user is addedd
+2020-09-15 17:05:47,009 - InetBanking -INFO - Tester is logged out from the application
+2020-09-15 17:05:58,568 - InetBanking -INFO - user name entered
+2020-09-15 17:05:58,635 - InetBanking -INFO - password entered
+2020-09-15 17:06:04,869 - InetBanking -INFO - Submit button clicked
+2020-09-15 17:06:12,920 - InetBanking -INFO - User is successfully logged in and looking into title.
+2020-09-15 17:06:17,319 - InetBanking -INFO - user name entered
+2020-09-15 17:06:17,386 - InetBanking -INFO - password entered
+2020-09-15 17:06:18,491 - InetBanking -INFO - Submit button clicked
+2020-09-15 17:06:21,615 - InetBanking -INFO - user name entered
+2020-09-15 17:06:21,675 - InetBanking -INFO - password entered
+2020-09-15 17:06:22,425 - InetBanking -INFO - Submit button clicked
+2020-09-15 18:10:59,273 - InetBanking -INFO - URL is opened in Browser
+2020-09-15 18:11:04,479 - InetBanking -INFO - user name entered
+2020-09-15 18:11:04,616 - InetBanking -INFO - password entered
+2020-09-15 18:11:58,571 - InetBanking -INFO - Submit button clicked
+2020-09-15 18:12:01,578 - InetBanking -INFO - Title is correct
+2020-09-15 18:12:05,864 - InetBanking -INFO - Tester is logged out from the application
+2020-09-15 18:12:18,136 - InetBanking -INFO - user name entered
+2020-09-15 18:12:18,231 - InetBanking -INFO - password entered
+2020-09-15 18:12:25,606 - InetBanking -INFO - Submit button clicked
+2020-09-15 18:12:31,505 - InetBanking -INFO - Tester is on Admin page
+2020-09-15 18:12:36,529 - InetBanking -INFO - Adding a new user
+2020-09-15 18:12:40,638 - InetBanking -INFO - Employee name provided
+2020-09-15 18:12:44,717 - InetBanking -INFO - User Name name provided
+2020-09-15 18:12:44,813 - InetBanking -INFO - Password name provided
+2020-09-15 18:12:44,896 - InetBanking -INFO - Confrim password name provided
+2020-09-15 18:12:48,989 - InetBanking -INFO - A new user is addedd
+2020-09-15 18:12:54,340 - InetBanking -INFO - Tester is logged out from the application
+2020-09-15 18:13:09,255 - InetBanking -INFO - user name entered
+2020-09-15 18:13:09,317 - InetBanking -INFO - password entered
+2020-09-15 18:13:17,323 - InetBanking -INFO - Submit button clicked
+2020-09-15 18:13:25,404 - InetBanking -INFO - User is successfully logged in and looking into title.
+2020-09-15 18:13:29,795 - InetBanking -INFO - user name entered
+2020-09-15 18:13:29,849 - InetBanking -INFO - password entered
+2020-09-15 18:13:30,950 - InetBanking -INFO - Submit button clicked
+2020-09-15 18:13:34,075 - InetBanking -INFO - user name entered
+2020-09-15 18:13:34,131 - InetBanking -INFO - password entered
+2020-09-15 18:13:34,927 - InetBanking -INFO - Submit button clicked
+2020-09-15 19:24:33,873 - InetBanking -INFO - user name entered
+2020-09-15 19:24:38,540 - InetBanking -INFO - password entered
+2020-09-15 19:24:49,480 - InetBanking -INFO - Submit button clicked
+2020-09-16 06:31:58,473 - InetBanking -INFO - Tester is on Admin page
+2020-09-16 06:38:51,921 - InetBanking -INFO - user name entered
+2020-09-16 06:38:52,049 - InetBanking -INFO - password entered
+2020-09-16 06:38:58,718 - InetBanking -INFO - Submit button clicked
+2020-09-16 06:39:04,620 - InetBanking -INFO - Tester is on Admin page
+2020-09-16 06:39:09,578 - InetBanking -INFO - Adding a new user
+2020-09-16 06:39:13,762 - InetBanking -INFO - Employee name provided
+2020-09-16 06:39:17,885 - InetBanking -INFO - User Name name provided
+2020-09-16 06:39:18,054 - InetBanking -INFO - Password name provided
+2020-09-16 06:39:18,188 - InetBanking -INFO - Confrim password name provided
+2020-09-16 06:39:23,813 - InetBanking -INFO - A new user is addedd
+2020-09-16 06:39:29,473 - InetBanking -INFO - Tester is logged out from the application
+2020-09-16 06:41:55,937 - InetBanking -INFO - user name entered
+2020-09-16 06:41:56,055 - InetBanking -INFO - password entered
+2020-09-16 06:42:02,093 - InetBanking -INFO - Submit button clicked
+2020-09-16 06:42:07,931 - InetBanking -INFO - Tester is on Admin page
+2020-09-16 06:42:12,971 - InetBanking -INFO - Adding a new user
+2020-09-16 06:42:17,172 - InetBanking -INFO - Employee name provided
+2020-09-16 06:42:21,284 - InetBanking -INFO - User Name name provided
+2020-09-16 06:42:25,444 - InetBanking -INFO - Password name provided
+2020-09-16 06:42:25,578 - InetBanking -INFO - Confrim password name provided
+2020-09-16 06:42:29,678 - InetBanking -INFO - A new user is addedd
+2020-09-16 06:42:35,163 - InetBanking -INFO - Tester is logged out from the application
+2020-09-16 06:58:00,180 - InetBanking -INFO - user name entered
+2020-09-16 06:58:00,306 - InetBanking -INFO - password entered
+2020-09-16 06:58:06,110 - InetBanking -INFO - Submit button clicked
+2020-09-16 06:58:11,958 - InetBanking -INFO - Tester is on Admin page
+2020-09-16 06:58:17,014 - InetBanking -INFO - Adding a new user
+2020-09-16 06:58:21,196 - InetBanking -INFO - Employee name provided
+2020-09-16 06:58:25,310 - InetBanking -INFO - User Name name provided
+2020-09-16 06:58:29,478 - InetBanking -INFO - Password name provided
+2020-09-16 07:05:40,894 - InetBanking -INFO - user name entered
+2020-09-16 07:05:41,014 - InetBanking -INFO - password entered
+2020-09-16 07:05:46,857 - InetBanking -INFO - Submit button clicked
+2020-09-16 07:05:52,776 - InetBanking -INFO - Tester is on Admin page
+2020-09-16 07:05:57,796 - InetBanking -INFO - Adding a new user
+2020-09-16 07:06:01,988 - InetBanking -INFO - Employee name provided
+2020-09-16 07:06:06,101 - InetBanking -INFO - User Name name provided
+2020-09-16 07:06:10,266 - InetBanking -INFO - Password name provided
+2020-09-16 07:09:22,336 - InetBanking -INFO - URL is opened in Browser
+2020-09-16 07:09:27,571 - InetBanking -INFO - user name entered
+2020-09-16 07:09:27,736 - InetBanking -INFO - password entered
+2020-09-16 07:09:34,314 - InetBanking -INFO - Submit button clicked
+2020-09-16 07:11:29,503 - InetBanking -INFO - URL is opened in Browser
+2020-09-16 07:11:34,736 - InetBanking -INFO - user name entered
+2020-09-16 07:11:34,874 - InetBanking -INFO - password entered
+2020-09-16 07:11:41,424 - InetBanking -INFO - Submit button clicked
+2020-09-16 07:12:15,352 - InetBanking -INFO - URL is opened in Browser
+2020-09-16 07:12:20,582 - InetBanking -INFO - user name entered
+2020-09-16 07:12:20,692 - InetBanking -INFO - password entered
+2020-09-16 07:12:31,604 - InetBanking -INFO - Submit button clicked
+2020-09-16 07:14:52,156 - InetBanking -INFO - URL is opened in Browser
+2020-09-16 07:14:57,410 - InetBanking -INFO - user name entered
+2020-09-16 07:14:57,606 - InetBanking -INFO - password entered
+2020-09-16 07:15:09,207 - InetBanking -INFO - Submit button clicked
+2020-09-16 07:17:10,126 - InetBanking -INFO - user name entered
+2020-09-16 07:17:10,375 - InetBanking -INFO - password entered
+2020-09-16 07:17:16,338 - InetBanking -INFO - Submit button clicked
+2020-09-16 07:17:22,223 - InetBanking -INFO - Tester is on Admin page
+2020-09-16 07:17:27,281 - InetBanking -INFO - Adding a new user
+2020-09-16 07:17:31,429 - InetBanking -INFO - Employee name provided
+2020-09-16 07:17:35,529 - InetBanking -INFO - User Name name provided
+2020-09-16 07:17:39,687 - InetBanking -INFO - Password name provided
+2020-09-16 07:21:33,607 - InetBanking -INFO - user name entered
+2020-09-16 07:21:33,757 - InetBanking -INFO - password entered
+2020-09-16 07:21:39,847 - InetBanking -INFO - Submit button clicked
+2020-09-16 07:21:45,705 - InetBanking -INFO - Tester is on Admin page
+2020-09-16 07:21:50,653 - InetBanking -INFO - Adding a new user
+2020-09-16 07:21:54,810 - InetBanking -INFO - Employee name provided
+2020-09-16 07:21:58,900 - InetBanking -INFO - User Name name provided
+2020-09-16 07:22:03,044 - InetBanking -INFO - Password name provided
+2020-09-16 07:22:34,270 - InetBanking -INFO - user name entered
+2020-09-16 07:22:34,408 - InetBanking -INFO - password entered
+2020-09-16 07:22:40,866 - InetBanking -INFO - Submit button clicked
+2020-09-16 07:22:46,743 - InetBanking -INFO - Tester is on Admin page
+2020-09-16 07:22:51,716 - InetBanking -INFO - Adding a new user
+2020-09-16 07:22:55,918 - InetBanking -INFO - Employee name provided
+2020-09-16 07:23:00,077 - InetBanking -INFO - User Name name provided
+2020-09-16 07:23:04,247 - InetBanking -INFO - Password name provided
+2020-09-16 09:16:15,695 - InetBanking -INFO - user name entered
+2020-09-16 09:16:15,884 - InetBanking -INFO - password entered
+2020-09-16 09:16:24,234 - InetBanking -INFO - Submit button clicked
+2020-09-16 09:16:30,514 - InetBanking -INFO - Tester is on Admin page
+2020-09-16 09:16:36,073 - InetBanking -INFO - Adding a new user
+2020-09-16 09:16:40,432 - InetBanking -INFO - Employee name provided
+2020-09-16 09:16:44,576 - InetBanking -INFO - User Name name provided
+2020-09-16 09:16:49,067 - InetBanking -INFO - Password name provided
+2020-09-17 18:35:15,825 - InetBanking -INFO - user name entered
+2020-09-17 18:35:15,990 - InetBanking -INFO - password entered
+2020-09-17 18:35:23,031 - InetBanking -INFO - Submit button clicked
+2020-09-17 18:35:29,354 - InetBanking -INFO - Tester is on Admin page
+2020-09-17 18:35:34,464 - InetBanking -INFO - Adding a new user
+2020-09-17 18:35:38,673 - InetBanking -INFO - Employee name provided
+2020-09-17 18:35:42,764 - InetBanking -INFO - User Name name provided
+2020-09-17 18:35:46,932 - InetBanking -INFO - Password name provided
+2020-09-17 18:39:31,259 - InetBanking -INFO - user name entered
+2020-09-17 18:39:31,431 - InetBanking -INFO - password entered
+2020-09-17 18:39:36,928 - InetBanking -INFO - Submit button clicked
+2020-09-17 18:39:43,767 - InetBanking -INFO - Tester is on Admin page
+2020-09-17 18:39:49,226 - InetBanking -INFO - Adding a new user
+2020-09-17 18:39:53,390 - InetBanking -INFO - Employee name provided
+2020-09-17 18:39:57,477 - InetBanking -INFO - User Name name provided
+2020-09-17 18:40:01,612 - InetBanking -INFO - Password name provided
+2020-09-17 18:45:43,210 - InetBanking -INFO - user name entered
+2020-09-17 18:45:43,383 - InetBanking -INFO - password entered
+2020-09-17 18:45:49,228 - InetBanking -INFO - Submit button clicked
+2020-09-17 18:45:56,159 - InetBanking -INFO - Tester is on Admin page
+2020-09-17 18:46:01,470 - InetBanking -INFO - Adding a new user
+2020-09-17 18:46:05,628 - InetBanking -INFO - Employee name provided
+2020-09-17 18:46:09,776 - InetBanking -INFO - User Name name provided
+2020-09-17 18:46:13,939 - InetBanking -INFO - Password name provided
+2020-09-17 18:48:06,321 - InetBanking -INFO - user name entered
+2020-09-17 18:48:06,480 - InetBanking -INFO - password entered
+2020-09-17 18:48:12,829 - InetBanking -INFO - Submit button clicked
+2020-09-17 18:48:18,660 - InetBanking -INFO - Tester is on Admin page
+2020-09-17 18:48:23,714 - InetBanking -INFO - Adding a new user
+2020-09-17 18:48:27,948 - InetBanking -INFO - Employee name provided
+2020-09-17 18:48:32,085 - InetBanking -INFO - User Name name provided
+2020-09-17 18:48:36,359 - InetBanking -INFO - Password name provided
+2020-09-17 18:48:36,898 - InetBanking -INFO - test case is failed
+2020-09-17 18:51:06,703 - InetBanking -INFO - user name entered
+2020-09-17 18:51:06,829 - InetBanking -INFO - password entered
+2020-09-17 18:51:13,468 - InetBanking -INFO - Submit button clicked
+2020-09-17 18:51:19,410 - InetBanking -INFO - Tester is on Admin page
+2020-09-17 18:51:24,503 - InetBanking -INFO - Adding a new user
+2020-09-17 18:51:28,658 - InetBanking -INFO - Employee name provided
+2020-09-17 18:51:32,747 - InetBanking -INFO - User Name name provided
+2020-09-17 18:51:37,035 - InetBanking -INFO - Password name provided
+2020-09-17 18:52:31,415 - InetBanking -INFO - user name entered
+2020-09-17 18:52:31,634 - InetBanking -INFO - password entered
+2020-09-17 18:52:37,961 - InetBanking -INFO - Submit button clicked
+2020-09-17 18:52:43,925 - InetBanking -INFO - Tester is on Admin page
+2020-09-17 18:52:48,957 - InetBanking -INFO - Adding a new user
+2020-09-17 18:52:53,136 - InetBanking -INFO - Employee name provided
+2020-09-17 18:52:57,226 - InetBanking -INFO - User Name name provided
+2020-09-17 18:53:01,390 - InetBanking -INFO - Password name provided
+2020-09-17 18:57:41,543 - InetBanking -INFO - user name entered
+2020-09-17 18:57:41,670 - InetBanking -INFO - password entered
+2020-09-17 18:57:48,281 - InetBanking -INFO - Submit button clicked
+2020-09-17 18:57:54,396 - InetBanking -INFO - Tester is on Admin page
+2020-09-17 18:57:59,463 - InetBanking -INFO - Adding a new user
+2020-09-17 18:58:03,620 - InetBanking -INFO - Employee name provided
+2020-09-17 18:58:07,710 - InetBanking -INFO - User Name name provided
+2020-09-17 18:58:11,860 - InetBanking -INFO - Password name provided
+2020-09-18 18:14:13,743 - InetBanking -INFO - URL is opened in Browser
+2020-09-18 18:14:18,992 - InetBanking -INFO - user name entered
+2020-09-18 18:14:19,153 - InetBanking -INFO - password entered
+2020-09-18 18:14:30,594 - InetBanking -INFO - Submit button clicked
+2020-09-18 18:16:51,541 - InetBanking -INFO - user name entered
+2020-09-18 18:16:51,630 - InetBanking -INFO - password entered
+2020-09-18 18:16:57,057 - InetBanking -INFO - Submit button clicked
+2020-09-18 18:17:04,014 - InetBanking -INFO - Tester is on Admin page
+2020-09-18 18:17:08,914 - InetBanking -INFO - Adding a new user
+2020-09-18 18:17:13,195 - InetBanking -INFO - Employee name provided
+2020-09-18 18:17:17,267 - InetBanking -INFO - User Name name provided
+2020-09-18 18:17:21,377 - InetBanking -INFO - Password name provided
+2020-09-18 18:18:30,877 - InetBanking -INFO - URL is opened in Browser
+2020-09-18 18:18:36,050 - InetBanking -INFO - user name entered
+2020-09-18 18:18:36,209 - InetBanking -INFO - password entered
+2020-09-18 18:18:42,812 - InetBanking -INFO - Submit button clicked
+2020-09-18 18:20:37,409 - InetBanking -INFO - URL is opened in Browser
+2020-09-18 18:20:42,570 - InetBanking -INFO - user name entered
+2020-09-18 18:20:42,655 - InetBanking -INFO - password entered
+2020-09-18 18:20:55,984 - InetBanking -INFO - Submit button clicked
+2020-09-18 18:41:13,592 - InetBanking -INFO - URL is opened in Browser
+2020-09-18 18:41:18,770 - InetBanking -INFO - user name entered
+2020-09-18 18:41:18,930 - InetBanking -INFO - password entered
+2020-09-18 18:41:26,176 - InetBanking -INFO - Submit button clicked
+2020-09-18 18:45:02,785 - InetBanking -INFO - URL is opened in Browser
+2020-09-18 18:45:07,998 - InetBanking -INFO - user name entered
+2020-09-18 18:45:08,134 - InetBanking -INFO - password entered
+2020-09-18 18:45:23,066 - InetBanking -INFO - Submit button clicked
+2020-09-18 18:50:21,253 - InetBanking -INFO - user name entered
+2020-09-18 18:50:21,381 - InetBanking -INFO - password entered
+2020-09-18 18:50:35,517 - InetBanking -INFO - Submit button clicked
+2020-09-18 18:51:24,444 - InetBanking -INFO - Tester is on Admin page
+2020-09-18 18:51:31,266 - InetBanking -INFO - Adding a new user
+2020-09-18 18:51:35,442 - InetBanking -INFO - Employee name provided
+2020-09-18 18:51:39,533 - InetBanking -INFO - User Name name provided
+2020-09-18 18:51:43,673 - InetBanking -INFO - Password name provided
+2020-09-18 20:02:48,464 - InetBanking -INFO - user name entered
+2020-09-18 20:02:48,580 - InetBanking -INFO - password entered
+2020-09-18 20:02:54,859 - InetBanking -INFO - Submit button clicked
+2020-09-18 20:03:01,403 - InetBanking -INFO - Tester is on Admin page
+2020-09-18 20:03:06,656 - InetBanking -INFO - Adding a new user
+2020-09-18 20:03:10,797 - InetBanking -INFO - Employee name provided
+2020-09-18 20:03:14,902 - InetBanking -INFO - User Name name provided
+2020-09-18 20:03:19,037 - InetBanking -INFO - Password name provided
+2020-09-18 20:14:05,862 - InetBanking -INFO - user name entered
+2020-09-18 20:14:05,974 - InetBanking -INFO - password entered
+2020-09-18 20:14:13,324 - InetBanking -INFO - Submit button clicked
+2020-09-18 20:14:19,409 - InetBanking -INFO - Tester is on Admin page
+2020-09-18 20:14:24,697 - InetBanking -INFO - Adding a new user
+2020-09-18 20:14:28,843 - InetBanking -INFO - Employee name provided
+2020-09-18 20:14:32,944 - InetBanking -INFO - User Name name provided
+2020-09-18 20:14:37,075 - InetBanking -INFO - Password name provided
+2020-09-18 20:15:48,296 - InetBanking -INFO - user name entered
+2020-09-18 20:15:48,440 - InetBanking -INFO - password entered
+2020-09-18 20:15:54,720 - InetBanking -INFO - Submit button clicked
+2020-09-18 20:16:00,940 - InetBanking -INFO - Tester is on Admin page
+2020-09-18 20:16:06,157 - InetBanking -INFO - Adding a new user
+2020-09-18 20:16:10,293 - InetBanking -INFO - Employee name provided
+2020-09-18 20:16:14,388 - InetBanking -INFO - User Name name provided
+2020-09-18 20:16:18,509 - InetBanking -INFO - Password name provided
+2020-09-18 20:39:41,780 - InetBanking -INFO - user name entered
+2020-09-18 20:39:41,874 - InetBanking -INFO - password entered
+2020-09-18 20:39:50,953 - InetBanking -INFO - Submit button clicked
+2020-09-18 20:39:57,466 - InetBanking -INFO - Tester is on Admin page
+2020-09-18 20:40:02,998 - InetBanking -INFO - Adding a new user
+2020-09-18 20:40:07,178 - InetBanking -INFO - Employee name provided
+2020-09-18 20:40:11,289 - InetBanking -INFO - User Name name provided
+2020-09-18 20:40:15,410 - InetBanking -INFO - Password name provided
+2020-09-18 20:42:07,597 - InetBanking -INFO - user name entered
+2020-09-18 20:42:07,761 - InetBanking -INFO - password entered
+2020-09-18 20:42:16,630 - InetBanking -INFO - Submit button clicked
+2020-09-18 20:42:24,100 - InetBanking -INFO - Tester is on Admin page
+2020-09-18 20:42:29,392 - InetBanking -INFO - Adding a new user
+2020-09-18 20:42:33,544 - InetBanking -INFO - Employee name provided
+2020-09-18 20:42:37,636 - InetBanking -INFO - User Name name provided
+2020-09-18 20:42:41,776 - InetBanking -INFO - Password name provided
+2020-09-19 07:12:51,996 - InetBanking -INFO - user name entered
+2020-09-19 07:12:52,128 - InetBanking -INFO - password entered
+2020-09-19 07:12:57,652 - InetBanking -INFO - Submit button clicked
+2020-09-19 07:13:04,228 - InetBanking -INFO - Tester is on Admin page
+2020-09-19 07:13:09,304 - InetBanking -INFO - Adding a new user
+2020-09-19 07:13:13,492 - InetBanking -INFO - Employee name provided
+2020-09-19 07:13:17,602 - InetBanking -INFO - User Name name provided
+2020-09-19 07:13:21,744 - InetBanking -INFO - Password name provided
+2020-09-19 07:15:36,088 - InetBanking -INFO - user name entered
+2020-09-19 07:15:36,203 - InetBanking -INFO - password entered
+2020-09-19 07:15:41,715 - InetBanking -INFO - Submit button clicked
+2020-09-19 07:15:47,577 - InetBanking -INFO - Tester is on Admin page
+2020-09-19 07:15:52,646 - InetBanking -INFO - Adding a new user
+2020-09-19 07:15:56,787 - InetBanking -INFO - Employee name provided
+2020-09-19 07:16:00,915 - InetBanking -INFO - User Name name provided
+2020-09-19 07:16:14,481 - InetBanking -INFO - Password name provided
+2020-09-19 07:17:49,182 - InetBanking -INFO - user name entered
+2020-09-19 07:17:49,312 - InetBanking -INFO - password entered
+2020-09-19 07:17:55,460 - InetBanking -INFO - Submit button clicked
+2020-09-19 07:18:01,314 - InetBanking -INFO - Tester is on Admin page
+2020-09-19 07:18:06,270 - InetBanking -INFO - Adding a new user
+2020-09-19 07:18:10,421 - InetBanking -INFO - Employee name provided
+2020-09-19 07:18:14,525 - InetBanking -INFO - User Name name provided
+2020-09-19 07:18:38,767 - InetBanking -INFO - Password name provided
+2020-09-19 07:23:08,587 - InetBanking -INFO - user name entered
+2020-09-19 07:23:08,707 - InetBanking -INFO - password entered
+2020-09-19 07:23:14,755 - InetBanking -INFO - Submit button clicked
+2020-09-19 07:23:20,532 - InetBanking -INFO - Tester is on Admin page
+2020-09-19 07:23:25,645 - InetBanking -INFO - Adding a new user
+2020-09-19 07:23:29,787 - InetBanking -INFO - Employee name provided
+2020-09-19 07:23:33,966 - InetBanking -INFO - User Name name provided
+2020-09-19 07:23:47,327 - InetBanking -INFO - Password name provided
+2020-09-19 07:24:02,295 - InetBanking -INFO - Confrim password name provided
+2020-09-19 07:24:20,349 - InetBanking -INFO - A new user is addedd
+2020-09-19 07:24:29,130 - InetBanking -INFO - Tester is logged out from the application
+2020-09-19 07:24:29,133 - InetBanking -INFO - test case is failed
+2020-09-19 07:25:03,692 - InetBanking -INFO - user name entered
+2020-09-19 07:25:03,829 - InetBanking -INFO - password entered
+2020-09-19 07:25:08,827 - InetBanking -INFO - Submit button clicked
+2020-09-19 07:25:14,905 - InetBanking -INFO - Tester is on Admin page
+2020-09-19 07:25:19,890 - InetBanking -INFO - Adding a new user
+2020-09-19 07:25:24,013 - InetBanking -INFO - Employee name provided
+2020-09-19 07:25:28,098 - InetBanking -INFO - User Name name provided
+2020-09-19 07:25:32,210 - InetBanking -INFO - Password name provided
+2020-09-19 07:25:32,322 - InetBanking -INFO - Confrim password name provided
+2020-09-19 07:25:38,112 - InetBanking -INFO - A new user is addedd
+2020-09-19 07:25:43,980 - InetBanking -INFO - Tester is logged out from the application
+2020-09-19 07:25:43,980 - InetBanking -INFO - test case is failed
+2020-09-19 08:16:44,705 - InetBanking -INFO - URL is opened in Browser
+2020-09-19 08:16:49,841 - InetBanking -INFO - user name entered
+2020-09-19 08:16:49,909 - InetBanking -INFO - password entered
+2020-09-19 08:16:56,428 - InetBanking -INFO - Submit button clicked
+2020-09-19 08:17:12,333 - InetBanking -INFO - user name entered
+2020-09-19 08:17:12,408 - InetBanking -INFO - password entered
+2020-09-19 08:17:17,869 - InetBanking -INFO - Submit button clicked
+2020-09-19 08:17:23,642 - InetBanking -INFO - Tester is on Admin page
+2020-09-19 08:17:28,636 - InetBanking -INFO - Adding a new user
+2020-09-19 08:17:32,756 - InetBanking -INFO - Employee name provided
+2020-09-19 08:17:36,836 - InetBanking -INFO - User Name name provided
+2020-09-19 08:17:40,940 - InetBanking -INFO - Password name provided
+2020-09-19 08:17:41,047 - InetBanking -INFO - Confrim password name provided
+2020-09-19 08:17:46,648 - InetBanking -INFO - A new user is addedd
+2020-09-19 08:17:52,647 - InetBanking -INFO - Tester is logged out from the application
+2020-09-19 08:17:52,648 - InetBanking -INFO - test case is failed
+2020-09-19 08:18:05,107 - InetBanking -INFO - user name entered
+2020-09-19 08:18:05,191 - InetBanking -INFO - password entered
+2020-09-19 08:18:10,739 - InetBanking -INFO - Submit button clicked
+2020-09-19 08:18:18,768 - InetBanking -INFO - User is successfully logged in and looking into title.
+2020-09-19 08:18:23,307 - InetBanking -INFO - user name entered
+2020-09-19 08:18:23,369 - InetBanking -INFO - password entered
+2020-09-19 08:18:24,905 - InetBanking -INFO - Submit button clicked
+2020-09-19 08:18:28,046 - InetBanking -INFO - user name entered
+2020-09-19 08:18:28,121 - InetBanking -INFO - password entered
+2020-09-19 08:18:29,215 - InetBanking -INFO - Submit button clicked
+2020-09-19 08:20:46,160 - InetBanking -INFO - URL is opened in Browser
+2020-09-19 08:20:51,286 - InetBanking -INFO - user name entered
+2020-09-19 08:20:51,351 - InetBanking -INFO - password entered
+2020-09-19 08:20:56,413 - InetBanking -INFO - Submit button clicked
+2020-09-19 08:20:59,779 - InetBanking -INFO - Title is not correct
+2020-09-19 08:21:04,121 - InetBanking -INFO - Tester is logged out from the application
+2020-09-19 08:21:17,663 - InetBanking -INFO - user name entered
+2020-09-19 08:21:17,740 - InetBanking -INFO - password entered
+2020-09-19 08:21:23,292 - InetBanking -INFO - Submit button clicked
+2020-09-19 08:21:29,063 - InetBanking -INFO - Tester is on Admin page
+2020-09-19 08:21:34,109 - InetBanking -INFO - Adding a new user
+2020-09-19 08:21:38,221 - InetBanking -INFO - Employee name provided
+2020-09-19 08:21:42,305 - InetBanking -INFO - User Name name provided
+2020-09-19 08:21:46,408 - InetBanking -INFO - Password name provided
+2020-09-19 08:21:46,516 - InetBanking -INFO - Confrim password name provided
+2020-09-19 08:21:52,510 - InetBanking -INFO - A new user is addedd
+2020-09-19 08:21:58,188 - InetBanking -INFO - Tester is logged out from the application
+2020-09-19 08:22:11,686 - InetBanking -INFO - user name entered
+2020-09-19 08:22:11,765 - InetBanking -INFO - password entered
+2020-09-19 08:22:17,724 - InetBanking -INFO - Submit button clicked
+2020-09-19 08:22:25,753 - InetBanking -INFO - User is successfully logged in and looking into title.
+2020-09-19 08:22:30,303 - InetBanking -INFO - user name entered
+2020-09-19 08:22:30,373 - InetBanking -INFO - password entered
+2020-09-19 08:22:31,705 - InetBanking -INFO - Submit button clicked
+2020-09-19 08:22:34,824 - InetBanking -INFO - user name entered
+2020-09-19 08:22:34,886 - InetBanking -INFO - password entered
+2020-09-19 08:22:35,930 - InetBanking -INFO - Submit button clicked
+2020-09-19 08:26:11,424 - InetBanking -INFO - URL is opened in Browser
+2020-09-19 08:26:16,557 - InetBanking -INFO - user name entered
+2020-09-19 08:26:16,626 - InetBanking -INFO - password entered
+2020-09-19 08:26:23,192 - InetBanking -INFO - Submit button clicked
+2020-09-19 08:26:26,607 - InetBanking -INFO - Title is not correct
+2020-09-19 08:26:31,045 - InetBanking -INFO - Tester is logged out from the application
+2020-09-19 08:26:45,781 - InetBanking -INFO - user name entered
+2020-09-19 08:26:45,896 - InetBanking -INFO - password entered
+2020-09-19 08:26:51,643 - InetBanking -INFO - Submit button clicked
+2020-09-19 08:26:57,740 - InetBanking -INFO - Tester is on Admin page
+2020-09-19 08:27:02,853 - InetBanking -INFO - Adding a new user
+2020-09-19 08:27:06,997 - InetBanking -INFO - Employee name provided
+2020-09-19 08:27:11,101 - InetBanking -INFO - User Name name provided
+2020-09-19 08:27:15,230 - InetBanking -INFO - Password name provided
+2020-09-19 08:27:15,372 - InetBanking -INFO - Confrim password name provided
+2020-09-19 08:27:21,053 - InetBanking -INFO - A new user is addedd
+2020-09-19 08:27:26,818 - InetBanking -INFO - Tester is logged out from the application
+2020-09-19 08:27:43,015 - InetBanking -INFO - user name entered
+2020-09-19 08:27:43,174 - InetBanking -INFO - password entered
+2020-09-19 08:27:48,629 - InetBanking -INFO - Submit button clicked
+2020-09-19 08:27:56,699 - InetBanking -INFO - User is successfully logged in and looking into title.
+2020-09-19 08:28:01,562 - InetBanking -INFO - user name entered
+2020-09-19 08:28:01,646 - InetBanking -INFO - password entered
+2020-09-19 08:28:02,923 - InetBanking -INFO - Submit button clicked
+2020-09-19 08:28:06,070 - InetBanking -INFO - user name entered
+2020-09-19 08:28:06,157 - InetBanking -INFO - password entered
+2020-09-19 08:28:07,176 - InetBanking -INFO - Submit button clicked
+2020-09-21 07:22:51,150 - InetBanking -INFO - URL is opened in Browser
+2020-09-21 07:22:56,299 - InetBanking -INFO - user name entered
+2020-09-21 07:22:56,384 - InetBanking -INFO - password entered
+2020-09-21 07:23:02,151 - InetBanking -INFO - Submit button clicked
+2020-09-21 07:23:05,529 - InetBanking -INFO - Title is not correct
+2020-09-21 07:23:09,868 - InetBanking -INFO - Tester is logged out from the application
+2020-09-21 07:23:26,900 - InetBanking -INFO - user name entered
+2020-09-21 07:23:27,033 - InetBanking -INFO - password entered
+2020-09-21 07:23:32,752 - InetBanking -INFO - Submit button clicked
+2020-09-21 07:23:40,441 - InetBanking -INFO - Tester is on Admin page
+2020-09-21 07:23:44,524 - InetBanking -INFO - Adding a new user
+2020-09-21 07:24:16,963 - InetBanking -INFO - user name entered
+2020-09-21 07:24:17,097 - InetBanking -INFO - password entered
+2020-09-21 07:24:23,120 - InetBanking -INFO - Submit button clicked
+2020-09-21 07:24:31,158 - InetBanking -INFO - User is successfully logged in and looking into title.
+2020-09-21 07:24:35,816 - InetBanking -INFO - user name entered
+2020-09-21 07:24:35,874 - InetBanking -INFO - password entered
+2020-09-21 07:24:35,927 - InetBanking -INFO - Submit button clicked
+2020-09-21 07:24:43,977 - InetBanking -INFO - User is successfully logged in and looking into title.
+2020-09-21 07:24:49,096 - InetBanking -INFO - user name entered
+2020-09-21 07:24:49,151 - InetBanking -INFO - password entered
+2020-09-21 07:24:49,199 - InetBanking -INFO - Submit button clicked
+2020-09-21 07:24:57,218 - InetBanking -INFO - User is successfully logged in and looking into title.
+2020-09-21 07:27:11,352 - InetBanking -INFO - URL is opened in Browser
+2020-09-21 07:27:16,599 - InetBanking -INFO - user name entered
+2020-09-21 07:27:16,711 - InetBanking -INFO - password entered
+2020-09-21 07:27:22,970 - InetBanking -INFO - Submit button clicked
+2020-09-21 07:27:26,339 - InetBanking -INFO - Title is not correct
+2020-09-21 07:27:30,926 - InetBanking -INFO - Tester is logged out from the application
+2020-09-21 07:27:44,275 - InetBanking -INFO - user name entered
+2020-09-21 07:27:44,349 - InetBanking -INFO - password entered
+2020-09-21 07:27:49,946 - InetBanking -INFO - Submit button clicked
+2020-09-21 07:27:56,437 - InetBanking -INFO - Tester is on Admin page
+2020-09-21 07:28:01,372 - InetBanking -INFO - Adding a new user
+2020-09-21 07:28:05,479 - InetBanking -INFO - Employee name provided
+2020-09-21 07:28:09,572 - InetBanking -INFO - User Name name provided
+2020-09-21 07:28:13,673 - InetBanking -INFO - Password name provided
+2020-09-21 07:28:13,779 - InetBanking -INFO - Confrim password name provided
+2020-09-21 07:28:19,645 - InetBanking -INFO - A new user is addedd
+2020-09-21 07:28:25,494 - InetBanking -INFO - Tester is logged out from the application
+2020-09-21 07:28:42,667 - InetBanking -INFO - user name entered
+2020-09-21 07:28:42,754 - InetBanking -INFO - password entered
+2020-09-21 07:28:48,871 - InetBanking -INFO - Submit button clicked
+2020-09-21 07:28:56,931 - InetBanking -INFO - User is successfully logged in and looking into title.
+2020-09-21 07:29:01,360 - InetBanking -INFO - user name entered
+2020-09-21 07:29:01,432 - InetBanking -INFO - password entered
+2020-09-21 07:29:02,555 - InetBanking -INFO - Submit button clicked
+2020-09-21 07:29:05,694 - InetBanking -INFO - user name entered
+2020-09-21 07:29:05,761 - InetBanking -INFO - password entered
+2020-09-21 07:29:06,892 - InetBanking -INFO - Submit button clicked
+2020-09-21 08:04:25,097 - InetBanking -INFO - URL is opened in Browser
+2020-09-21 08:04:30,217 - InetBanking -INFO - user name entered
+2020-09-21 08:04:30,305 - InetBanking -INFO - password entered
+2020-09-21 08:04:36,082 - InetBanking -INFO - Submit button clicked
+2020-09-21 08:04:39,438 - InetBanking -INFO - Title is not correct
+2020-09-21 08:04:43,679 - InetBanking -INFO - Tester is logged out from the application
+2020-09-21 08:04:57,169 - InetBanking -INFO - user name entered
+2020-09-21 08:04:57,250 - InetBanking -INFO - password entered
+2020-09-21 08:05:03,591 - InetBanking -INFO - Submit button clicked
+2020-09-21 08:05:10,123 - InetBanking -INFO - Tester is on Admin page
+2020-09-21 08:05:15,024 - InetBanking -INFO - Adding a new user
+2020-09-21 08:05:19,134 - InetBanking -INFO - Employee name provided
+2020-09-21 08:05:23,218 - InetBanking -INFO - User Name name provided
+2020-09-21 08:05:27,317 - InetBanking -INFO - Password name provided
+2020-09-21 08:05:27,425 - InetBanking -INFO - Confrim password name provided
+2020-09-21 08:05:33,066 - InetBanking -INFO - A new user is addedd
+2020-09-21 08:05:38,823 - InetBanking -INFO - Tester is logged out from the application
+2020-09-21 08:05:57,483 - InetBanking -INFO - user name entered
+2020-09-21 08:05:57,555 - InetBanking -INFO - password entered
+2020-09-21 08:06:04,339 - InetBanking -INFO - Submit button clicked
+2020-09-21 08:06:12,370 - InetBanking -INFO - User is successfully logged in and looking into title.
+2020-09-21 08:06:17,051 - InetBanking -INFO - user name entered
+2020-09-21 08:06:17,110 - InetBanking -INFO - password entered
+2020-09-21 08:06:18,506 - InetBanking -INFO - Submit button clicked
+2020-09-21 08:06:21,634 - InetBanking -INFO - user name entered
+2020-09-21 08:06:21,702 - InetBanking -INFO - password entered
+2020-09-21 08:06:22,545 - InetBanking -INFO - Submit button clicked
+2020-09-21 08:12:18,552 - InetBanking -INFO - URL is opened in Browser
+2020-09-21 08:12:23,701 - InetBanking -INFO - user name entered
+2020-09-21 08:12:23,779 - InetBanking -INFO - password entered
+2020-09-21 08:12:29,506 - InetBanking -INFO - Submit button clicked
+2020-09-21 08:12:32,865 - InetBanking -INFO - Title is not correct
+2020-09-21 08:12:37,458 - InetBanking -INFO - Tester is logged out from the application
+2020-09-21 08:12:51,855 - InetBanking -INFO - user name entered
+2020-09-21 08:12:51,938 - InetBanking -INFO - password entered
+2020-09-21 08:12:58,166 - InetBanking -INFO - Submit button clicked
+2020-09-21 08:13:04,726 - InetBanking -INFO - Tester is on Admin page
+2020-09-21 08:13:09,866 - InetBanking -INFO - Adding a new user
+2020-09-21 08:13:13,977 - InetBanking -INFO - Employee name provided
+2020-09-21 08:13:18,061 - InetBanking -INFO - User Name name provided
+2020-09-21 08:13:22,158 - InetBanking -INFO - Password name provided
+2020-09-21 08:13:22,266 - InetBanking -INFO - Confrim password name provided
+2020-09-21 08:13:28,723 - InetBanking -INFO - A new user is addedd
+2020-09-21 08:13:34,091 - InetBanking -INFO - Tester is logged out from the application
+2020-09-21 08:13:48,077 - InetBanking -INFO - user name entered
+2020-09-21 08:13:48,186 - InetBanking -INFO - password entered
+2020-09-21 08:13:53,960 - InetBanking -INFO - Submit button clicked
+2020-09-21 08:14:02,024 - InetBanking -INFO - User is successfully logged in and looking into title.
+2020-09-21 08:14:06,711 - InetBanking -INFO - user name entered
+2020-09-21 08:14:06,770 - InetBanking -INFO - password entered
+2020-09-21 08:14:07,920 - InetBanking -INFO - Submit button clicked
+2020-09-21 08:14:11,044 - InetBanking -INFO - user name entered
+2020-09-21 08:14:11,102 - InetBanking -INFO - password entered
+2020-09-21 08:14:11,886 - InetBanking -INFO - Submit button clicked
+2020-09-22 20:16:43,173 - InetBanking -INFO - URL is opened in Browser
+2020-09-22 20:16:48,344 - InetBanking -INFO - user name entered
+2020-09-22 20:16:48,445 - InetBanking -INFO - password entered
+2020-09-22 20:16:55,127 - InetBanking -INFO - Submit button clicked
+2020-09-22 20:16:58,517 - InetBanking -INFO - Title is not correct
+2020-09-22 20:17:03,565 - InetBanking -INFO - Tester is logged out from the application
+2020-09-22 20:17:16,398 - InetBanking -INFO - user name entered
+2020-09-22 20:17:16,509 - InetBanking -INFO - password entered
+2020-09-22 20:17:23,115 - InetBanking -INFO - Submit button clicked
+2020-09-22 20:17:29,128 - InetBanking -INFO - Tester is on Admin page
+2020-09-22 20:17:34,650 - InetBanking -INFO - Adding a new user
+2020-09-22 20:17:38,847 - InetBanking -INFO - Employee name provided
+2020-09-22 20:17:42,948 - InetBanking -INFO - User Name name provided
+2020-09-22 20:17:47,101 - InetBanking -INFO - Password name provided
+2020-09-22 20:17:47,239 - InetBanking -INFO - Confrim password name provided
+2020-09-22 20:17:52,862 - InetBanking -INFO - A new user is addedd
+2020-09-22 20:17:59,607 - InetBanking -INFO - Tester is logged out from the application
+2020-09-22 20:18:16,800 - InetBanking -INFO - user name entered
+2020-09-22 20:18:16,906 - InetBanking -INFO - password entered
+2020-09-22 20:18:26,636 - InetBanking -INFO - Submit button clicked
+2020-09-22 20:18:34,711 - InetBanking -INFO - User is successfully logged in and looking into title.
+2020-09-22 20:18:42,928 - InetBanking -INFO - user name entered
+2020-09-22 20:18:43,005 - InetBanking -INFO - password entered
+2020-09-22 20:18:44,552 - InetBanking -INFO - Submit button clicked
+2020-09-22 20:18:47,745 - InetBanking -INFO - user name entered
+2020-09-22 20:18:47,831 - InetBanking -INFO - password entered
+2020-09-22 20:18:50,447 - InetBanking -INFO - Submit button clicked
+2020-09-23 06:35:59,061 - InetBanking -INFO - URL is opened in Browser
+2020-09-23 06:36:04,209 - InetBanking -INFO - user name entered
+2020-09-23 06:36:04,302 - InetBanking -INFO - password entered
+2020-09-23 06:36:10,060 - InetBanking -INFO - Submit button clicked
+2020-09-23 06:36:13,441 - InetBanking -INFO - Title is not correct
+2020-09-23 06:36:17,736 - InetBanking -INFO - Tester is logged out from the application
+2020-09-23 06:36:31,018 - InetBanking -INFO - user name entered
+2020-09-23 06:36:31,107 - InetBanking -INFO - password entered
+2020-09-23 06:36:37,151 - InetBanking -INFO - Submit button clicked
+2020-09-23 06:36:43,771 - InetBanking -INFO - Tester is on Admin page
+2020-09-23 06:36:50,544 - InetBanking -INFO - Adding a new user
+2020-09-23 06:36:54,658 - InetBanking -INFO - Employee name provided
+2020-09-23 06:36:58,738 - InetBanking -INFO - User Name name provided
+2020-09-23 06:37:02,837 - InetBanking -INFO - Password name provided
+2020-09-23 06:37:02,942 - InetBanking -INFO - Confrim password name provided
+2020-09-23 06:37:09,539 - InetBanking -INFO - A new user is addedd
+2020-09-23 06:37:19,157 - InetBanking -INFO - Tester is logged out from the application
+2020-09-23 06:37:33,802 - InetBanking -INFO - user name entered
+2020-09-23 06:37:33,859 - InetBanking -INFO - password entered
+2020-09-23 06:37:39,642 - InetBanking -INFO - Submit button clicked
+2020-09-23 06:37:47,679 - InetBanking -INFO - User is successfully logged in and looking into title.
+2020-09-23 06:37:52,395 - InetBanking -INFO - user name entered
+2020-09-23 06:37:52,473 - InetBanking -INFO - password entered
+2020-09-23 06:37:53,846 - InetBanking -INFO - Submit button clicked
+2020-09-23 06:37:56,963 - InetBanking -INFO - user name entered
+2020-09-23 06:37:57,024 - InetBanking -INFO - password entered
+2020-09-23 06:37:58,128 - InetBanking -INFO - Submit button clicked
+2020-09-23 06:42:06,619 - InetBanking -INFO - URL is opened in Browser
+2020-09-23 06:42:11,745 - InetBanking -INFO - user name entered
+2020-09-23 06:42:11,826 - InetBanking -INFO - password entered
+2020-09-23 06:42:17,364 - InetBanking -INFO - Submit button clicked
+2020-09-23 06:42:20,640 - InetBanking -INFO - Title is not correct
+2020-09-23 06:42:24,943 - InetBanking -INFO - Tester is logged out from the application
+2020-09-23 06:42:44,718 - InetBanking -INFO - user name entered
+2020-09-23 06:42:44,836 - InetBanking -INFO - password entered
+2020-09-23 06:42:50,861 - InetBanking -INFO - Submit button clicked
+2020-09-23 06:42:56,639 - InetBanking -INFO - Tester is on Admin page
+2020-09-23 06:43:01,583 - InetBanking -INFO - Adding a new user
+2020-09-23 06:43:05,723 - InetBanking -INFO - Employee name provided
+2020-09-23 06:43:09,806 - InetBanking -INFO - User Name name provided
+2020-09-23 06:43:13,916 - InetBanking -INFO - Password name provided
+2020-09-23 06:43:14,021 - InetBanking -INFO - Confrim password name provided
+2020-09-23 06:43:20,400 - InetBanking -INFO - A new user is addedd
+2020-09-23 06:43:25,959 - InetBanking -INFO - Tester is logged out from the application
+2020-09-23 06:43:44,049 - InetBanking -INFO - user name entered
+2020-09-23 06:43:44,107 - InetBanking -INFO - password entered
+2020-09-23 06:43:50,140 - InetBanking -INFO - Submit button clicked
+2020-09-23 06:43:58,175 - InetBanking -INFO - User is successfully logged in and looking into title.
+2020-09-23 06:44:02,530 - InetBanking -INFO - user name entered
+2020-09-23 06:44:02,584 - InetBanking -INFO - password entered
+2020-09-23 06:44:03,730 - InetBanking -INFO - Submit button clicked
+2020-09-23 06:44:06,887 - InetBanking -INFO - user name entered
+2020-09-23 06:44:06,959 - InetBanking -INFO - password entered
+2020-09-23 06:44:08,281 - InetBanking -INFO - Submit button clicked
+2020-09-23 06:45:40,492 - InetBanking -INFO - URL is opened in Browser
+2020-09-23 06:45:45,600 - InetBanking -INFO - user name entered
+2020-09-23 06:45:45,663 - InetBanking -INFO - password entered
+2020-09-23 06:45:51,354 - InetBanking -INFO - Submit button clicked
+2020-09-23 06:45:54,636 - InetBanking -INFO - Title is not correct
+2020-09-23 06:45:59,208 - InetBanking -INFO - Tester is logged out from the application
+2020-09-23 06:46:17,766 - InetBanking -INFO - user name entered
+2020-09-23 06:46:17,827 - InetBanking -INFO - password entered
+2020-09-23 06:46:23,134 - InetBanking -INFO - Submit button clicked
+2020-09-23 06:46:29,638 - InetBanking -INFO - Tester is on Admin page
+2020-09-23 06:46:34,769 - InetBanking -INFO - Adding a new user
+2020-09-23 06:46:38,876 - InetBanking -INFO - Employee name provided
+2020-09-23 06:46:42,954 - InetBanking -INFO - User Name name provided
+2020-09-23 06:46:47,051 - InetBanking -INFO - Password name provided
+2020-09-23 06:46:47,154 - InetBanking -INFO - Confrim password name provided
+2020-09-23 06:46:53,666 - InetBanking -INFO - A new user is addedd
+2020-09-23 06:46:59,348 - InetBanking -INFO - Tester is logged out from the application
+2020-09-23 06:47:18,479 - InetBanking -INFO - user name entered
+2020-09-23 06:47:18,548 - InetBanking -INFO - password entered
+2020-09-23 06:47:24,289 - InetBanking -INFO - Submit button clicked
+2020-09-23 06:47:32,366 - InetBanking -INFO - User is successfully logged in and looking into title.
+2020-09-23 06:47:36,762 - InetBanking -INFO - user name entered
+2020-09-23 06:47:36,837 - InetBanking -INFO - password entered
+2020-09-23 06:47:38,289 - InetBanking -INFO - Submit button clicked
+2020-09-23 06:47:41,407 - InetBanking -INFO - user name entered
+2020-09-23 06:47:41,460 - InetBanking -INFO - password entered
+2020-09-23 06:47:42,282 - InetBanking -INFO - Submit button clicked
+2020-09-23 08:00:08,423 - InetBanking -INFO - URL is opened in Browser
+2020-09-23 08:00:13,533 - InetBanking -INFO - user name entered
+2020-09-23 08:00:13,596 - InetBanking -INFO - password entered
+2020-09-23 08:00:19,579 - InetBanking -INFO - Submit button clicked
+2020-09-23 08:00:22,852 - InetBanking -INFO - Title is not correct
+2020-09-23 08:00:27,088 - InetBanking -INFO - Tester is logged out from the application
+2020-09-23 08:00:46,290 - InetBanking -INFO - user name entered
+2020-09-23 08:00:46,357 - InetBanking -INFO - password entered
+2020-09-23 08:00:55,249 - InetBanking -INFO - Submit button clicked
+2020-09-23 08:01:02,817 - InetBanking -INFO - Tester is on Admin page
+2020-09-23 08:01:08,027 - InetBanking -INFO - Adding a new user
+2020-09-23 08:01:12,146 - InetBanking -INFO - Employee name provided
+2020-09-23 08:01:16,232 - InetBanking -INFO - User Name name provided
+2020-09-23 08:01:20,329 - InetBanking -INFO - Password name provided
+2020-09-23 08:01:20,433 - InetBanking -INFO - Confrim password name provided
+2020-09-23 08:01:26,981 - InetBanking -INFO - A new user is addedd
+2020-09-23 08:01:32,687 - InetBanking -INFO - Tester is logged out from the application
+2020-09-23 08:02:14,018 - InetBanking -INFO - user name entered
+2020-09-23 08:02:14,105 - InetBanking -INFO - password entered
+2020-09-23 08:02:21,200 - InetBanking -INFO - Submit button clicked
+2020-09-23 08:02:29,264 - InetBanking -INFO - User is successfully logged in and looking into title.
+2020-09-23 08:02:33,932 - InetBanking -INFO - user name entered
+2020-09-23 08:02:34,016 - InetBanking -INFO - password entered
+2020-09-23 08:02:35,180 - InetBanking -INFO - Submit button clicked
+2020-09-23 08:02:38,374 - InetBanking -INFO - user name entered
+2020-09-23 08:02:38,439 - InetBanking -INFO - password entered
+2020-09-23 08:02:40,010 - InetBanking -INFO - Submit button clicked
+2020-09-23 16:50:55,249 - InetBanking -INFO - URL is opened in Browser
+2020-09-23 16:51:00,617 - InetBanking -INFO - user name entered
+2020-09-23 16:51:00,945 - InetBanking -INFO - password entered
+2020-09-23 16:51:08,009 - InetBanking -INFO - Submit button clicked
+2020-09-23 16:51:11,811 - InetBanking -INFO - Title is not correct
+2020-09-23 16:51:16,529 - InetBanking -INFO - Tester is logged out from the application
+2020-09-23 16:51:36,590 - InetBanking -INFO - user name entered
+2020-09-23 16:51:36,701 - InetBanking -INFO - password entered
+2020-09-23 16:51:43,943 - InetBanking -INFO - Submit button clicked
+2020-09-23 16:51:50,020 - InetBanking -INFO - Tester is on Admin page
+2020-09-23 16:51:55,478 - InetBanking -INFO - Adding a new user
+2020-09-23 16:51:59,654 - InetBanking -INFO - Employee name provided
+2020-09-23 16:52:03,762 - InetBanking -INFO - User Name name provided
+2020-09-23 16:52:07,997 - InetBanking -INFO - Password name provided
+2020-09-23 16:52:08,220 - InetBanking -INFO - Confrim password name provided
+2020-09-23 16:52:13,863 - InetBanking -INFO - A new user is addedd
+2020-09-23 16:52:19,538 - InetBanking -INFO - Tester is logged out from the application
+2020-09-23 16:52:42,917 - InetBanking -INFO - user name entered
+2020-09-23 16:52:43,079 - InetBanking -INFO - password entered
+2020-09-23 16:52:49,524 - InetBanking -INFO - Submit button clicked
+2020-09-23 16:52:57,627 - InetBanking -INFO - User is successfully logged in and looking into title.
+2020-09-23 16:53:02,753 - InetBanking -INFO - user name entered
+2020-09-23 16:53:02,886 - InetBanking -INFO - password entered
+2020-09-23 16:53:04,419 - InetBanking -INFO - Submit button clicked
+2020-09-23 16:53:07,603 - InetBanking -INFO - user name entered
+2020-09-23 16:53:07,678 - InetBanking -INFO - password entered
+2020-09-23 16:53:08,582 - InetBanking -INFO - Submit button clicked
+2020-09-29 12:56:36,085 - InetBanking -INFO - URL is opened in Browser
+2020-09-29 12:56:41,273 - InetBanking -INFO - user name entered
+2020-09-29 12:56:41,397 - InetBanking -INFO - password entered
+2020-09-29 12:56:45,540 - InetBanking -INFO - Submit button clicked
+2020-09-29 12:56:48,831 - InetBanking -INFO - Title is not correct
+2020-09-29 12:56:53,089 - InetBanking -INFO - Tester is logged out from the application
+2020-09-29 12:57:13,435 - InetBanking -INFO - user name entered
+2020-09-29 12:57:13,528 - InetBanking -INFO - password entered
+2020-09-29 12:57:17,522 - InetBanking -INFO - Submit button clicked
+2020-09-29 12:57:23,031 - InetBanking -INFO - Tester is on Admin page
+2020-09-29 12:57:27,844 - InetBanking -INFO - Adding a new user
+2020-09-29 12:57:32,026 - InetBanking -INFO - Employee name provided
+2020-09-29 12:57:36,132 - InetBanking -INFO - User Name name provided
+2020-09-29 12:57:40,270 - InetBanking -INFO - Password name provided
+2020-09-29 12:57:40,436 - InetBanking -INFO - Confrim password name provided
+2020-09-29 12:57:45,987 - InetBanking -INFO - A new user is addedd
+2020-09-29 12:57:51,421 - InetBanking -INFO - Tester is logged out from the application
+2020-09-29 12:58:12,721 - InetBanking -INFO - user name entered
+2020-09-29 12:58:12,860 - InetBanking -INFO - password entered
+2020-09-29 12:58:17,189 - InetBanking -INFO - Submit button clicked
+2020-09-29 12:58:25,291 - InetBanking -INFO - User is successfully logged in and looking into title.
+2020-09-29 12:58:29,686 - InetBanking -INFO - user name entered
+2020-09-29 12:58:29,777 - InetBanking -INFO - password entered
+2020-09-29 12:58:30,758 - InetBanking -INFO - Submit button clicked
+2020-09-29 12:58:33,918 - InetBanking -INFO - user name entered
+2020-09-29 12:58:34,020 - InetBanking -INFO - password entered
+2020-09-29 12:58:34,774 - InetBanking -INFO - Submit button clicked
+2020-10-07 06:28:26,860 - InetBanking -INFO - URL is opened in Browser
+2020-10-07 06:28:32,044 - InetBanking -INFO - user name entered
+2020-10-07 06:28:32,229 - InetBanking -INFO - password entered
+2020-10-07 06:28:35,063 - InetBanking -INFO - Submit button clicked
+2020-10-07 06:28:38,570 - InetBanking -INFO - Title is not correct
+2020-10-07 06:28:42,710 - InetBanking -INFO - Tester is logged out from the application
+2020-10-07 06:28:54,065 - InetBanking -INFO - user name entered
+2020-10-07 06:28:54,157 - InetBanking -INFO - password entered
+2020-10-07 06:28:57,055 - InetBanking -INFO - Submit button clicked
+2020-10-07 06:29:03,026 - InetBanking -INFO - Tester is on Admin page
+2020-10-07 06:29:07,178 - InetBanking -INFO - Adding a new user
+2020-10-07 06:29:35,201 - InetBanking -INFO - user name entered
+2020-10-07 06:29:35,319 - InetBanking -INFO - password entered
+2020-10-07 06:29:38,205 - InetBanking -INFO - Submit button clicked
+2020-10-07 06:29:46,249 - InetBanking -INFO - User is successfully logged in and looking into title.
+2020-10-07 06:29:50,442 - InetBanking -INFO - user name entered
+2020-10-07 06:29:50,511 - InetBanking -INFO - password entered
+2020-10-07 06:29:51,387 - InetBanking -INFO - Submit button clicked
+2020-10-07 06:29:54,535 - InetBanking -INFO - user name entered
+2020-10-07 06:29:54,600 - InetBanking -INFO - password entered
+2020-10-07 06:29:55,305 - InetBanking -INFO - Submit button clicked

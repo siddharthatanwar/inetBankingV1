@@ -1,0 +1,13 @@
+com\inetBanking\testCases\TC_LoginTest_001.class
+com\inetBanking\testCases\TC_LoginDDT_002.class
+com\inetBanking\pageObjects\AddUserPage.class
+com\inetBanking\testCases\BaseClass.class
+com\inetBanking\utilities\MyXLUtil.class
+com\inetBanking\utilities\ReadConfig.class
+com\inetBanking\utilities\ExcelDataProvider.class
+com\inetBanking\utilities\Reporting.class
+com\inetBanking\testCases\TC_AddUserTest_003.class
+com\inetBanking\utilities\Xls_Reader.class
+com\inetBanking\utilities\XLUtils.class
+com\inetBanking\pageObjects\LoginPage.class
+com\inetBanking\utilities\ExcelUtilMethodCalling.class
